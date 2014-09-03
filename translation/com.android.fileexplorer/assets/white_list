@@ -1,0 +1,43 @@
+/backups,zh_cn=ES浏览器备份
+/bluetooth,zh_cn=蓝牙接收文件
+/Download,zh_cn=系统下载:ru_ru=Системные загрузки
+/media,zh_cn=多媒体:ru_ru=Медиа
+/mi_drive,zh_cn=小米网盘
+/movies,zh_cn=电影:ru_ru=Фильмы
+/Music,zh_cn=音乐:ru_ru=Музыка
+/netease,zh_cn=网易
+/Ringtones,zh_cn=铃声:ru_ru=Рингтоны
+/Android,zh_cn=安卓:zh_tw=安卓:ru_ru=Папка андроид
+/Android/data,zh_cn=安卓数据:zh_tw=安卓數據:ru_ru=Папка с кэшем
+/Android/obb,zh_cn=安卓数据:zh_tw=安卓數據:ru_ru=Папка с кэшем обб
+/DCIM,zh_cn=相册:zh_tw=相冊:ru_ru=Фотографии
+/DCIM/Camera,zh_cn=安卓相机:zh_tw=安卓相機:ru_ru=Фото камеры
+/DCIM/Screenshots,zh_cn=截图:zh_tw=截圖:ru_ru=Скриншоты
+/DCIM/100ANDRO,zh_cn=相机:zh_tw=相機
+/MIUI,zh_cn=米柚:zh_tw=米柚
+/MIUI/backup,zh_cn=备份:zh_tw=備份
+/MIUI/browser,zh_cn=浏览器:zh_tw=瀏覽器
+/MIUI/contactphoto,zh_cn=联系人头像:zh_tw=聯絡人頭像
+/MIUI/Gallery,zh_cn=相册:zh_tw=相冊
+/MIUI/music,zh_cn=音乐:zh_tw=音樂
+/MIUI/MiTools,zh_cn=音乐:zh_tw=音樂:ru_ru=Ми тулс
+/MIUI/notes,zh_cn=便签:zh_tw=便簽:ru_ru=Заметки
+/MIUI/sound_recorder,zh_cn=录音机:zh_tw=錄音機:ru_ru=Записи диктофона
+/MIUI/theme,zh_cn=主题风格:zh_tw=主題風格
+/MIUI/wallpaper,zh_cn=壁纸:zh_tw=壁紙
+/MIUI/weather,zh_cn=天气:zh_tw=天氣:ru_ru=Погода
+/MIUI/Transfer,zh_cn=快传:zh_tw=快傳
+/downloaded_rom,zh_cn=系统更新包:zh_tw=系統更新包:ru_RU=Прошивки
+/NaviOne,zh_cn=凯立德导航
+/Android/data/com.android.camera,zh_cn=相机:ru_ru=Камера
+/Android/data/org.telegram.messenger,zh_cn=相机:ru_ru=Телеграм
+/SF_IV_DATA,zh_cn=街霸4
+/tencent,zh_cn=腾讯:ru_ru=Вичат
+/dxcontent,ru_ru=Картинки
+/LuckyPatcher,ru_ru=Патчер
+/mobilism,ru_ru=Мобилизм загрузки
+/TitaniumBackup,ru_ru=Титан
+/UCDownloads,ru_ru=UC браузер
+/zedge,ru_ru=Картинки
+/ZeptoLab,ru_ru=Очки игр
+/WhatsApp,ru_ru=ВатцАпп

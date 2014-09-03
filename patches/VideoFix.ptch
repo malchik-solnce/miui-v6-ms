@@ -1,0 +1,7 @@
+appfile <MiuiVideo.apk>;
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "const v2, 0x7f080061" "const v2, 0x7f080061-";
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "const v2, 0x7f080062" "const v2, 0x7f080061";
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "const v2, 0x7f080061-" "const v2, 0x7f080062";
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Ct:Lcom/miui/video/fragment/OnlineVideoFragment;" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Ct:Lcom/miui/video/fragment/OnlineVideoFragment;-";
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Cu:Lcom/miui/video/fragment/MyVideoFragment;" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Ct:Lcom/miui/video/fragment/OnlineVideoFragment;";
+replaceinfile "%smali%/com/miui/video/HomeActivity.smali" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Ct:Lcom/miui/video/fragment/OnlineVideoFragment;-" "iget-object v1, p0, Lcom/miui/video/HomeActivity;->Cu:Lcom/miui/video/fragment/MyVideoFragment;";

@@ -1,0 +1,4 @@
+appfile <QuickSearchBox.apk>;
+replaceinfile "%smali%/com/android/quicksearchbox/ui/SearchActivityView.smali" "const-string v3, \"com.xiaomi.market\"" "const-string v3, \"com.android.vending\"";
+replaceinfile "%smali%/com/android/quicksearchbox/ui/SearchActivityView$2.smali" "const-string v2, \"com.xiaomi.market\"" "const-string v2, \"com.android.vending\"";
+replaceinfile "%smali%/com/android/quicksearchbox/ui/SearchActivityView$2.smali" "const-string v3, \"com.xiaomi.market.ui.JoinActivity\"" "const-string v3, \"com.google.android.finsky.activities.MainActivity\"";

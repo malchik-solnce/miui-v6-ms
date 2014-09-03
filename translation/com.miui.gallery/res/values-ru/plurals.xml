@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Удалить %s фото в <b>облаке</b>?</item>
+        <item quantity="one">Удалить %s фото в <b>облаке</b>?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Удалить %s фото из <b>телефона и облака</b>?</item>
+        <item quantity="one">Удалить %s фото из <b>телефона и облака</b>?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Удалить %s видео из <b>телефона и облака</b>?</item>
+        <item quantity="one">Удалить %s видео из <b>телефона и облака</b>?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Удалить %s видео в <b>облаке</b>?</item>
+        <item quantity="one">Удалить %s видео в <b>облаке</b>?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Удалить %s фото?</item>
+        <item quantity="one">Удалить %s фото?</item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Удалить %s видео?</item>
+        <item quantity="one">Удалить %s видео?</item>
+     </plurals>
+     <plurals name="number_of_images">
+        <item quantity="other">Изображений: %1$d</item>
+        <item quantity="zero">Изображений: %1$d</item>
+        <item quantity="one">"Изображений: %1$d"</item>
+     </plurals>
+     <plurals name="number_of_items">
+        <item quantity="other">Файлов: %1$d</item>
+        <item quantity="zero">Файлов: %1$d</item>
+        <item quantity="one">Файлов: %1$d</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+</resources>

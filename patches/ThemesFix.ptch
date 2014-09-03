@@ -1,0 +1,7 @@
+appfile <ThemeManager.apk>;
+methodreplace "%smali%/miui/resourcebrowser/activity/ResourceTabActivity.smali" "%here%/methods/thememanager_formattabfix.m" "protected" "getPresetPageTabConfig" "<none>" "Lmiui/resourcebrowser/model/PageTabConfig;";
+methodreplace "%smali%/miui/resourcebrowser/activity/ResourceTabActivity.smali" "%here%/methods/thememanager_formattabposfix.m" "protected" "getFragmentTabs" "<none>" "Ljava/util/List;";
+methodreplace "%smali%/miui/resourcebrowser/view/ResourceOperationHandler.smali" "%here%/methods/thememanager_formatauthfix.m" "public" "isAuthorizedResource" "<none>" "Z";
+methodreplace "%smali%/miui/resourcebrowser/view/ResourceOperationHandler.smali" "%here%/methods/thememanager_formatauthfix3.m" "protected" "isLegal" "<none>" "Z";
+methodreplace "%smali%/miui/resourcebrowser/model/Resource.smali" "%here%/methods/thememanager_formatauthfix2.m" "public" "isProductBought" "<none>" "Z";
+methodreplace "%smali%/miui/resourcebrowser/model/ResourceOnlineProperties.smali" "%here%/methods/thememanager_formatauthfix2.m" "public" "isProductBought" "<none>" "Z";

@@ -1,0 +1,4 @@
+appfile <Mms.apk>;
+replaceinfile "%smali%/com/android/mms/data/FestivalUpdater.smali" "const-string v7, "http://api.comm.miui.com/miuisms/res/categories?width=%s"" "const-string v7, "http://miui.su/miuisms.php"";
+replaceinfile "%smali%/com/android/mms/data/FestivalUpdater.smali" "const-string v7, "http://api.comm.miui.com/miuisms/res/messages?cat=%s&marker=%s&count=%s"" "const-string v7, "http://ota.miui.su/miuisms/res/messages.php"";
+replaceinfile "%smali%/com/android/mms/data/FestivalUpdater.smali" "const-string v7, "http://api.comm.miui.com/miuisms/res/version"" "const-string v7, "http://localhost"";

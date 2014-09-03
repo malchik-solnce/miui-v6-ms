@@ -1,0 +1,15 @@
+include "%translation_dir%/patches/BackupFix.ptch";
+include "%translation_dir%/patches/CoreFix.ptch";
+include "%translation_dir%/patches/DisVolume.ptch";
+include "%translation_dir%/patches/DownloadUiFix.ptch";
+include "%translation_dir%/patches/MmsFix.ptch";
+include "%translation_dir%/patches/MusicFix.ptch";
+include "%translation_dir%/patches/RootFix.ptch";
+include "%translation_dir%/patches/SearchFix.ptch";
+include "%translation_dir%/patches/ServicesFix.ptch";
+include "%translation_dir%/patches/T9Update.ptch";
+include "%translation_dir%/patches/ThemesFix.ptch";
+include "%translation_dir%/patches/UiFix.ptch";
+include "%translation_dir%/patches/VideoFix.ptch";
+include "%translation_dir%/patches/VolumeFix.ptch";
+include "%translation_dir%/patches/WeatherFix.ptch";

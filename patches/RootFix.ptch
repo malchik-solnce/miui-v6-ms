@@ -1,0 +1,2 @@
+appfile <SecurityCenter.apk>;
+replaceinfile "%smali%/com/miui/permcenter/root/RootApplyActivity.smali" "const/4 v0, 0x1" "const/4 v0, 0x5";

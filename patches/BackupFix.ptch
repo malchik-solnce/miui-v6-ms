@@ -1,0 +1,14 @@
+appfile <Backup.apk>;
+replaceinfile "%smali%/com/miui/backup/ui/LocalBackupFragment.smali" "const-string v6, \"MB, \"" "const-string v6, \" МБ \"";
+replaceinfile "%smali%/com/miui/backup/ui/LocalBackupFragment.smali" "const-string v6, \"KB, \"" "const-string v6, \" КБ \"";
+replaceinfile "%smali%/com/miui/backup/ui/LocalBackupFragment.smali" "const-string v6, \",\"" "const-string v6, \"|\"";
+replaceinfile "%smali%/com/miui/backup/ui/ProgressPageActivity.smali" "const-string v7, \", \"" "const-string v7, \" \"";
+replaceinfile "%smali%/com/miui/backup/ui/ProgressPageActivity.smali" "const-string v5, \"MB, \"" "const-string v5, \" МБ \"";
+replaceinfile "%smali%/com/miui/backup/ui/ProgressPageActivity.smali" "const-string v5, \"KB, \"" "const-string v5, \" КБ \"";
+replaceinfile "%smali%/com/miui/backup/ui/RestoreSelectActivity.smali" "const-string v4, \"%s   %dMB\"" "const-string v4, \"%s   %d МБ\"";
+replaceinfile "%smali%/com/miui/backup/ui/RestoreSelectActivity.smali" "const-string v4, \"%s   %dKB\"" "const-string v4, \"%s   %d КБ\"";
+replaceinfile "%smali%/com/miui/backup/BackupUtils.smali" "const-string v6, \",\"" "const-string v6, \"|\"";
+replaceinfile "%smali%/com/miui/backup/BackupUtils.smali" "const-string v0, \"K\"" "const-string v0, \" К\"";
+replaceinfile "%smali%/com/miui/backup/BackupUtils.smali" "const-string v1, \"M\"" "const-string v1, \" М\"";
+replaceinfile "%smali%/com/miui/backup/BackupUtils.smali" "const-string v10, \"M\"" "const-string v10, \" М\"";
+replaceinfile "%smali%/com/miui/backup/BackupUtils.smali" "const-string v10, \"K\"" "const-string v10, \" К\"";

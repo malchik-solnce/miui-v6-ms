@@ -1,0 +1,21 @@
+appfile <framework.jar>;
+replaceinfile "%smali%/android/media/AudioService.smali" ".method private updateStreamVolumeAlias(Z)V" ".method private updateStreamVolumeAlias(Z)V
+ .locals 2
+ .param p1, "updateVolumes" # Z
+
+ .prologue
+ const/4 v1, 0x5
+
+ .line 11
+ invoke-direct {p0, p1}, Landroid/media/AudioService;->updateStreamVolumeAlias_origin(Z)V
+
+ .line 12
+ iget-object v0, p0, Landroid/media/AudioService;->mStreamVolumeAlias:[I
+
+ aput v1, v0, v1
+
+ .line 13
+ return-void
+.end method
+
+.method private updateStreamVolumeAlias_origin(Z)V";

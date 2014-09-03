@@ -1,0 +1,2 @@
+appfile <services.jar>;
+methodreplace "%smali%/com/android/server/pm/PackageManagerService.smali" "%here%/methods/services_signfix.m" "static" "compareSignatures" "[Landroid/content/pm/Signature;[Landroid/content/pm/Signature;" "I";

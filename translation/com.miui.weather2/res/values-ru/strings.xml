@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+     <string name="act_find_city_hint">Поиск</string>
+     <string name="act_find_city_hot_title">Популярные города</string>
+     <string name="act_set_city_find_side">Поиск города…</string>
+     <string name="act_set_city_find_side_error">Ошибка определения положения</string>
+     <string name="act_weather_cycle_link_china">Погода MIUI</string>
+     <string name="act_weather_find_city_added">Добавлен</string>
+     <string name="act_weather_find_city_click_retry">Повторить</string>
+     <string name="act_weather_find_city_connect_net">Проверьте сеть и повтори еще раз</string>
+     <string name="act_weather_find_city_net_no_good">Не удалось подключиться к сети</string>
+     <string name="act_weather_find_city_no_result">Не найдено</string>
+     <string name="act_weather_find_city_searching">Поиск…</string>
+     <string name="activity_find_city_dialog_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_find_city_dialog_message">Let Weather use location service</string>
+     <string name="activity_find_city_dialog_set">Настроить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activity_find_city_dialog_title">Location service</string>
+     <string name="activity_main_refresh_time">Обновлено: %1$s</string>
+     <string name="activity_main_refresh_timeout">Время вышло</string>
+     <string name="activity_main_update_time">Обновлено %1$s</string>
+     <string name="activity_main_update_time_right_now">только что</string>
+     <string name="activity_weather_main_null_data">- -</string>
+     <string name="activity_weathermain_locationg">Поиск…</string>
+     <string name="add_city">Добавить город</string>
+     <string name="app_label">Поставщик погоды</string>
+     <string name="app_name">Погода</string>
+     <string name="aqi_quality_index_break">AQI %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_dangerous">dangerous</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_good">good</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_hazardous">hazardous</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_light_pollution">небольшое загрязнение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_moderate">moderate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_pure">excellent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: AQI %1$s -->
+     <string name="aqi_quality_index_unhealthy">unhealthy</string>
+     <string name="button_abandon">Отмена</string>
+     <string name="button_allow">Разрешить</string>
+     <string name="button_not_allow">Запретить</string>
+     <string name="edit_city">Изменить</string>
+     <string name="gps_hint">Текущее местоположение</string>
+     <string name="loading_weather">Загрузка погоды…</string>
+     <string name="location_allow_err">Не удалось определить местоположение</string>
+     <string name="location_management">Управление городами</string>
+     <string name="location_tag">Поиск</string>
+     <string name="menu_add">Добавить</string>
+     <string name="menu_location">Местоположение</string>
+     <string name="menu_more">Сведения</string>
+     <string name="network_unavailable">Сеть недоступна</string>
+     <string name="view_aqi_main_no_data">Нет данных</string>
+     <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
+     <string name="view_aqi_pubtime">Обновлено: %1$s</string>
+     <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_aqi_source">China National Environmental Monitoring Center</string>
+     <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
+     <string name="view_aqi_title">Воздух</string>
+     <string name="view_dropwater_title">Вероятность осадков</string>
+     <string name="view_forecast_item_yesterday">Вчера</string>
+     <string name="view_indexes_item_today">Сегодня</string>
+     <string name="view_indexes_item_tommorrow">Завтра</string>
+     <string name="view_indexes_title_feel">Ощущается (°C)</string>
+     <string name="view_indexes_title_humidity">Влажность (%)</string>
+     <string name="view_indexes_title_pressure">Давление (мб)</string>
+     <string name="view_indexes_title_uv">УФ индекс</string>
+     <string name="view_indexes_title_visibility">Видимость (км)</string>
+     <string name="view_indexes_title_wind">Ветер</string>
+     <string name="view_indexes_wind_unit">км/ч</string>
+     <string name="weather_unit">°</string>
+     <string name="weather_unit_middle">~</string>
+     <string name="weather_unit_with_c">°C</string>
+</resources>

@@ -1,0 +1,2 @@
+appfile <framework2.jar>;
+replaceinfile "%smali%/miui/view/VolumePanel.smali" "invoke-virtual {v0, v1}, Landroid/media/ToneGenerator;->startTone(I)Z" " ";

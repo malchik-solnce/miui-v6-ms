@@ -1,0 +1,7 @@
+appfile <MiuiSystemUI.apk>;
+replaceinfile "%smali%/com/android/systemui/statusbar/NetworkSpeedView.smali" "const-string v1, \"K/s\"" "const-string v1, \"К/с\"";
+replaceinfile "%smali%/com/android/systemui/statusbar/NetworkSpeedView.smali" "const-string v1, \"M/s\"" "const-string v1, \"М/с\"";
+replaceinfile "%smali%/com/android/systemui/statusbar/NetworkSpeedView.smali" "const-string v6, \"K/s\"" "const-string v6, \"К/с\"";
+replaceinfile "%smali%/com/android/systemui/statusbar/NetworkSpeedView.smali" "const-string v6, \"M/s\"" "const-string v6, \"М/с\"";
+replaceinfile "%smali%/com/android/systemui/taskmanager/TaskManagerView.smali" "const-string v7, \"M\"" "const-string v7, \" MБ\"";
+replaceinfile "%smali%/com/android/systemui/taskmanager/TaskManagerView.smali" "const-string v7, \"G\"" "const-string v7, \" ГБ\"";

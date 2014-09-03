@@ -1,0 +1,6 @@
+appfile <DownloadProviderUi.apk>;
+methodreplace "%smali%/com/android/providers/downloads/ui/DownloadUtils.smali" "%here%/methods/downloadproviderui_formatunitfix.m" "public static" "formatUnit" "Ljava/lang/String;" "Ljava/lang/String;";
+replaceinfile "%smali%/com/android/providers/downloads/ui/DownloadAdapter.smali" "const-string v7, \"/s\"" "const-string v7, \"/с\"";
+replaceinfile "%smali%/com/android/providers/downloads/ui/pay/XLSpeedUpActivity$2$2.smali" "const-string v4, \"MB\"" "const-string v4, \"МБ\"";
+replaceinfile "%smali%/com/android/providers/downloads/ui/pay/XLSpeedUpActivity$7.smali" "const-string v1, \"\\u6388\\u6743\\u5931\\u8d25\"" "const-string v1, \"Ошибка авторизации\"";
+replaceinfile "%smali%/com/android/providers/downloads/ui/pay/XLSpeedUpActivity$8.smali" "const-string v2, \"\\u652f\\u4ed8\\u5931\\u8d25 \"" "const-string v2, \"Неуплата "";
