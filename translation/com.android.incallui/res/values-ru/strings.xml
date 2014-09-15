@@ -40,7 +40,7 @@
     <string name="callFailed_number_unreachable">Номер недоступен</string>
     <string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
     <string name="callFailed_out_of_network">Вызов из сети</string>
-    <string name="callFailed_server_error">Ошибка сервера. Повтори попытку позже.</string>
+    <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
     <string name="callFailed_noSignal">Нет сигнала</string>
     <string name="callFailed_limitExceeded">Превышен лимит ACM</string>
     <string name="callFailed_powerOff">Радио отключено</string>

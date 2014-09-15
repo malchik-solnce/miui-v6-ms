@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запись видео</string>
+    <string name="share">Поделиться</string>
+    <string name="stop">Остановить</string>
+    <string name="insufficient_storage">Недостаточно памяти</string>
+    <string name="show_touches">Пок. нажатия</string>
+    <string name="recording">Запись</string>
+    <string name="recording_ready_to_share">Запись готова к отправке</string>
+    <string name="video_length">Продолжительнось: %s</string>
+    <string name="not_enough_storage">Нет свободной памяти</string>
+    <string name="start_screencast">Начать запись</string>
+    <string name="start_description">Нажмите ниже, чтобы начать запись видео с экрана и микрофона</string>
+</resources>

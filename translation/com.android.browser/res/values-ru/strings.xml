@@ -155,6 +155,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+	 <string name="common_use_phrase_bottom_bar_text_next">Вперед</string>
+     <string name="common_use_phrase_bottom_bar_text_previous">Назад</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
@@ -653,7 +655,7 @@
      <string name="v5_select_all">Выбрать все</string>
      <string name="video_title">Видео</string>
      <string name="view_certificate">Просмотреть сертификат</string>
-     <string name="voice_sub_title">Не знаете что сказать? Попробуйте открыть mi.com!"</string>
+     <string name="voice_sub_title">Не знаете что сказать? Попробуйте открыть mi.com!</string>
      <string name="voice_title">Произнесите команду…</string>
      <string name="voice_title_distinguish">Обработка…</string>
      <string name="voice_title_listening">Прослушивание…</string>

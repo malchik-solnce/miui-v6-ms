@@ -3,6 +3,7 @@ system/tts/*
 recovery/*
 system/fonts/Miui-Bold.ttf
 system/fonts/Miui-Regular.ttf
+system/app/AMAPNetworkLocation.apk
 system/app/GooglePinyinIME.apk
 system/app/BasicDreams.apk
 system/app/Galaxy4.apk

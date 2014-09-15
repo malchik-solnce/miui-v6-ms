@@ -1,0 +1,5 @@
+appfile <Settings.apk>;
+replaceinfile "%smali%/com/android/settings/sound/RingerVolumeFragment.smali" "const/16 v9, 0x8" "const/16 v9, 0x0";
+replaceinfile "%smali%/com/android/settings/MiuiDeviceInfoSettings.smali" "const-string v2, "MHz"" "const-string v2, " МГц"";
+replaceinfile "%smali%/com/android/settings/MiuiDeviceInfoSettings.smali" "const-string v2, "GHz"" "const-string v2, " ГГц"";
+replaceinfile "%smali%/com/android/settings/MiuiDeviceInfoSettings.smali" "const-string v2, "MIUI-"" "const-string v2, "\\u0020"";

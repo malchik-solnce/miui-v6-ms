@@ -108,8 +108,8 @@
     <string name="paste">Вставить</string>
     <string name="replace">Заменить</string>
     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
-    <string name="call_record_sample_prefix_miui">Запись</string>
-	<string name="fm_record_smaple_prefix_miui">FM recording</string>
+    <string name="call_record_sample_prefix_miui">Запись разговора</string>
+	<string name="fm_record_smaple_prefix_miui">Запись радио</string>
     <string name="unknown_caller">Неизвестный абонент</string>
     <string name="call_record_or"> или </string>
     <string name="presentation_unknown">Неизвестный номер</string>

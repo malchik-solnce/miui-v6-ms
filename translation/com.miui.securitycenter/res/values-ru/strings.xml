@@ -538,7 +538,7 @@
     <string name="empty_title_auto_start_list">Пусто</string>
     <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
     <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
-    <string name="hints_auto_start_warning_info">Forbid auto-start will not receive any message</string>
+    <string name="hints_auto_start_warning_info">Запрет автозапуск отключит входящие сообщения</string>
     <string name="hints_auto_start_enable_title">Приложений в автозапуске: %d </string>
     <string name="hints_auto_start_disable_title">Приложений не автозапуске: %d </string>
     <string name="activity_title_apps_manager">Приложения</string>

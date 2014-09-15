@@ -130,7 +130,7 @@
     <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
     <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
     <string name="network_forbidden">%s (запрещена)</string>
-    <string name="data_enabled">Мобильный интрнет</string>
+    <string name="data_enabled">Мобильный интернет</string>
     <string name="data_enable_summary">Включить мобильный интернет от оператора</string>
     <string name="roaming">Интернет в роуминге</string>
     <string name="roaming_enable">Использовать интернет в роуминге</string>
@@ -776,9 +776,9 @@ This can take up to 5 minutes."</string>
     <string name="lable_all_outgoing_international">Международные исходящие звонки</string>
     <string name="lable_all_out_except">Международные исходящие вызовы кроме домой</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>
-    <string name="lable_incoming_calls_except">Входящие звонки в роуменге</string>
+    <string name="lable_incoming_calls_except">Входящие звонки в роуминге</string>
     <string name="deactivate_all">Отменить все</string>
-    <string name="change_password">Изменить парль запрета</string>
+    <string name="change_password">Изменить пароль запрета</string>
     <string name="call_barring_sum">Настройки запрета голосовых вызовов</string>
     <string name="lable_disable">Отключено</string>
     <string name="lable_enable">Включено</string>
@@ -842,4 +842,25 @@ This can take up to 5 minutes."</string>
     <string name="telephony_setting">Телефон</string>
 	<string name="call_record_on_summary">Включена автоматическая запись звонков</string>
     <string name="call_record_off_summary">Автоматическая запись звонков отключена</string>
+	<string name="msim_setting_screen_title">SIM-карты и мобильные сети</string>
+    <string name="msim_setting_categery_title">Информация SIM-карты</string>
+    <string name="msim_general_setting">Основные настройки</string>
+    <string name="msim_default_setting">Настройки по умолчанию</string>
+    <string name="msim_setting_no_sim_indicator">Нет SIM-карты</string>
+    <string name="msim_setting_sim_info_editor_title">Изменить информацию</string>
+    <string name="msim_setting_operator_network_title">Операторы связи</string>
+    <string name="msim_sim_lock">Заблокирована</string>
+    <string name="msim_sim_radio_off">Отключена</string>
+    <string name="msim_enable_sim">Включить</string>
+    <string name="msim_info_editor_name">Изменить имя SIM-карты</string>
+    <string name="msim_info_editor_number">Изменит номер SIM-карты</string>
+    <string name="msim_info_editor_set_name_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="msim_apn_not_set">Не выбрано</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
+    <string name="msim_set_sub_not_supported_slot_id_error">Ошибка SIM-карты. Повторите позже.</string>
+    <string name="msim_mode_progress_activating_message">Включение</string>
+    <string name="msim_mode_progress_deactivating_message">Отключение</string>
+    <string name="msim_pref_title_voice">Настройки телефона</string>
+    <string name="msim_pref_title_data">Настройки интернета</string>
+    <string name="msim_not_set_summary">Не выбрано</string>
 </resources>

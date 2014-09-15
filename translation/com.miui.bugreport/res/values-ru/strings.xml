@@ -18,8 +18,9 @@
      <string name="camera_problem4">Не удается переключаться между задними и передними камерами</string>
      <string name="camera_problem5">Камера перестает работать</string>
      <string name="description">Описание (обязательно)</string>
-     <string name="discard_draft_dialog_button_cancel">Отмена</string>
-     <string name="discard_draft_dialog_content">В отчете были изменения. Нажмите OK, чтобы отказаться от отзыва.</string>
+     <string name="discard_draft_dialog_button_cancel">Нет</string>
+	 <string name="discard_draft_dialog_button_discard">Да</string>
+     <string name="discard_draft_dialog_content">Все изменения в отчете будут потеряны. Продолжить?</string>
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
      <string name="err_type">Тип ошибки</string>
      <string name="err_type_bluetooth">Bluetooth</string>
@@ -32,6 +33,7 @@
      <string name="err_type_systemapp">MIUI приложения</string>
      <string name="err_type_wifi">Wi-Fi</string>
      <string name="hot_problem">Распространенные ошибки</string>
+	 <string name="hot_problem_empty">Пусто</string>
      <string name="loading_apps">Загрузка списка…</string>
      <string name="loading_hot_problem">Загрузка…</string>
      <string name="menu_attach_screenshot">Прикрепить скриншот</string>
@@ -64,7 +66,7 @@
      <string name="systemui">Панель уведомлений</string>
      <string name="title_hot_problem">Распространенные ошибки</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
-     <string name="toast_feedback_pending_wlan">Твой отзыв будет отправлен позже при включенном Wi-Fi</string>
+     <string name="toast_feedback_pending_wlan">Отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>
      <string name="toast_pending_log_collection">Сбор логов</string>

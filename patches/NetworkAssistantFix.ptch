@@ -1,0 +1,9 @@
+appfile <NetworkAssistant2.apk>;
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v2, \"GB\"" "const-string v2, \" ГБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v2, \"MB\"" "const-string v2, \" МБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v2, \"KB\"" "const-string v2, \" КБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v2, \"B\"" "const-string v2, \" Б\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v3, \"GB\"" "const-string v3, \" ГБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v3, \"MB\"" "const-string v3, \" МБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v3, \"KB\"" "const-string v3, \" КБ\"";
+replaceinfile "%smali%/com/miui/networkassistant/utils/FormatBytesUtil.smali" "const-string v3, \"B\"" "const-string v3, \" Б\"";

@@ -72,7 +72,7 @@
      <string name="short_pincode_error_msg">Пожалуйста, введите 4–8 цифр</string>
      <string name="short_pukcode_error_msg">Введите не менее 8 цифр</string>
      <string name="starting_camera_string">Запуск камеры</string>
-     <string name="unlock_sim_string">Разблокировать SIM</string>
+     <string name="unlock_sim_string">Разбл. SIM</string>
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Зарядите устройство</string>

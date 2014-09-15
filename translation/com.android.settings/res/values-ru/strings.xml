@@ -172,6 +172,7 @@
      <string name="applications_settings_header">Настройки приложения</string>
      <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
      <string name="apply_now_button_text">Обновить</string>
+	 <string name="apply_update_fail">Ошибка обновления системы</string>
      <string name="apps_with_restrictions_header">Приложения с ограничениями</string>
      <string name="apps_with_restrictions_settings_button">Расширенные настройки приложения</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
@@ -196,7 +197,7 @@
      <string name="auto_startup_application_manage">Автозапуск</string>
      <string name="auto_startup_count">Приложений в автозапуске: %d</string>
      <string name="automatic_brightness">Автонастройка яркости</string>
-     <string name="available_size">свободно %s</string>
+     <string name="available_size">свободно %s </string>
      <string name="awake">Время включения устройства</string>
      <string name="back_key">Кнопка назад</string>
      <string name="background_data">Фоновый режим</string>
@@ -808,8 +809,8 @@
      <string name="dndm_dlg_remove_ok">OK</string>
      <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
      <string name="dndm_menu_add_vip_custom">Добавить</string>
-     <string name="dndm_mute_all">Звонки и смс без звука</string>
-     <string name="dndm_notification">Активен тихий режим</string>
+     <string name="dndm_mute_all">Звонки и сообщения без звука</string>
+     <string name="dndm_notification">Включен тихий режим</string>
      <string name="dndm_open">Включить тихий режим</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
@@ -857,6 +858,7 @@
      <string name="dolby_roomsize_summary">Доступно только при использовании наушников</string>
      <string name="dolby_roomsize_title">Объемное звучание: </string>
      <string name="done_button">Готово</string>
+	 <string name="download_current_rom">Скачать последнюю версию MIUI</string>
      <string name="downloading_description">Загрузка…</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Настройки автоответа</string>
@@ -1080,6 +1082,7 @@
      <string name="install_applications">Неизвестные источники</string>
      <string name="install_text">Установить</string>
      <string name="install_unknown_applications">Разрешить установку приложений, полученных не из маркета</string>
+	 <string name="install_whole_rom">Скачать прошивку (обычно)</string>
      <string name="insufficient_storage">Недостаточно места</string>
      <string name="intent_sender_account_label">Аккаунт:</string>
      <string name="intent_sender_action_label">Действие:</string>
@@ -1118,11 +1121,12 @@
      <string name="language_settings_category">Языковые настройки</string>
      <string name="large_font">Большой</string>
      <string name="last_synced">Последняя синхронизация %1$s</string>
+	 <string name="later">Позже</string>
      <string name="launch_count_label">Подсчет</string>
      <string name="launcher_settings_title">Рабочий стол</string>
-     <string name="launching_cit">Запуск cit…</string>
+     <string name="launching_cit">Открытие инженерного меню…</string>
      <string name="launching_pho">Открытие информации о телефоне…</string>
-     <string name="launching_rep">Собираю отчет…</string>
+     <string name="launching_rep">Начинаю собирать отчет…</string>
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
      <string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
@@ -1337,6 +1341,7 @@
      <string name="menu_stats_total">Всего</string>
      <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
      <string name="menu_use_uss">Использовать USS</string>
+	 <string name="mione_update_success_title">Обновление завершено</string>
      <string name="miracast_PC2THOR_streaming_on">Miracast недоступен. ПК подключен к этому устройству.</string>
      <string name="miracast_cancelconnect_dialog">Отмена подключения</string>
      <string name="miracast_connection_failed_generic">Подключение не удалось</string>
@@ -1485,7 +1490,7 @@
      <string name="no_update_found">Вы используете последнюю версию MIUI</string>
      <string name="no_updates_found">Вы используете последнюю версию MIUI</string>
      <string name="no_updates_warning">Обновления не найдены</string>
-     <string name="no_updates_warning2">Расслабьтесь, Вы узнаешь первым когда оно появится :)</string>
+     <string name="no_updates_warning2">Расслабьтесь, Вы узнаете первым когда оно появится :)</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
@@ -1497,6 +1502,7 @@
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Мелодия уведомления</string>
      <string name="notification_volume_title">Уведомление</string>
+	 <string name="now">Перезагрузить</string>
      <string name="nsd_quick_toggle_summary">Позволяет приложениям на других устройствах обнаруживать приложения на этом устройстве</string>
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="oem_radio_info_label">Информация/настройки OEM</string>
@@ -1514,7 +1520,7 @@
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
      <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
      <string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
-	 <string name="other_personal_settings">Дополнительные настройки</string>
+	 <string name="other_personal_settings">Еще</string>
      <string name="other_relative">ПРОЧИЕ</string>
      <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
      <string name="owner_info_settings_edit_text_hint">Введите текст</string>
@@ -1773,8 +1779,10 @@
      <string name="retry">Повторить</string>
      <string name="ring_volume_title">Громкость звонка</string>
      <string name="ringtone_mute">Нет</string>
+	 <string name="ringtone_slot_setting_title">Настройки одной карты</string>
      <string name="ringtone_summary" />
      <string name="ringtone_title">Мелодия звонка</string>
+	 <string name="ringtone_uniform_setting_title">Настройки двух карт</string>
      <string name="roaming">Интернет-роуминг</string>
      <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
      <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
@@ -2162,7 +2170,7 @@
      <string name="title_system_resource">Системные</string>
      <string name="toast_lockscreen_glogin_empty_password">Введи пароль</string>
      <string name="toast_need_login">Войди в Mi аккаунт</string>
-     <string name="total_size">всего %s</string>
+     <string name="total_size">всего %s </string>
      <string name="total_size_label">Всего</string>
      <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
      <string name="touch_sensitive_title">Чувствительный сенсор</string>
@@ -2381,7 +2389,7 @@
      <string name="user_summary_not_set_up">Не настроен</string>
      <string name="user_summary_restricted_not_set_up">Не настроен - ограниченный профиль</string>
      <string name="user_summary_restricted_profile">Ограниченный профиль</string>
-     <string name="user_you">Ты (%s)</string>
+     <string name="user_you">Вы (%s)</string>
      <string name="verify_applications">Проверка приложений</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
      <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
@@ -2393,6 +2401,7 @@
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_when_ringing_title">В режиме звонок</string>
+	 <string name="view_install_log">Журнал ошибки</string>
      <string name="virus_scan">Антивирус</string>
      <string name="virus_scan_app_continue">Продолжить</string>
      <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
@@ -2437,11 +2446,11 @@
      <string name="volume_category_title">Настройки громкости</string>
      <string name="volume_media_description">Громкость мультимедиа</string>
      <string name="volume_media_mute">Отключить музыку и медиа</string>
-     <string name="volume_notification_description">Оповещения</string>
+     <string name="volume_notification_description">Громкость уведомлений</string>
      <string name="volume_notification_mute">Отключить уведомления</string>
      <string name="volume_restore">Восстановить</string>
      <string name="volume_restore_alert">Все настройки будут сброшены в начальное состояние. Продолжить?</string>
-     <string name="volume_ring_description">Рингтон и уведомления</string>
+     <string name="volume_ring_description">Громкость мелодии</string>
      <string name="volume_ring_mute">Отключить звонок и уведомления</string>
      <string name="volume_system_description">Системная громкость: затвор камеры, локскрин и другие уведомления</string>
      <string name="volume_voice_description">Громкость разговора</string>

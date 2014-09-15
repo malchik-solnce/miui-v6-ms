@@ -52,7 +52,7 @@
         <item>"сэкономленный "</item>
      </string-array>
      <string-array name="traffic_uints">
-        <item>М</item>
-        <item>Г</item>
+        <item>МБ</item>
+        <item>ГБ</item>
      </string-array>
 </resources>

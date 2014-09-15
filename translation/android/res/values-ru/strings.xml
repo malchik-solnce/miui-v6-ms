@@ -204,7 +204,6 @@
      <string name="data_usage_warning_title">Осталось мало трафика</string>
      <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
      <string name="data_usage_wifi_limit_title">Передача данных через Wi-Fi отключена</string>
-     <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
      <string name="date_picker_decrement_day_button">На день назад</string>
      <string name="date_picker_decrement_month_button">На месяц назад</string>
      <string name="date_picker_decrement_year_button">На год назад</string>
@@ -247,7 +246,7 @@
      <string name="dlg_confirm_kill_storage_users_text">При подключении USB-накопителя некоторые приложения могут прекратить работу и оставаться недоступными до его отключения</string>
      <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
      <string name="dlg_error_title">Ошибка при подключении USB</string>
-     <string name="dlg_ok">ОК</string>
+     <string name="dlg_ok">OK</string>
      <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб</string>
      <string name="editTextMenuTitle">Операции с текстом</string>
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
@@ -303,7 +302,7 @@
      <string name="find_on_page">Найти на странице</string>
      <string name="find_previous">Найти предыдущие</string>
      <string name="fingerprints">Отпечатки:</string>
-     <string name="force_close">ОК</string>
+     <string name="force_close">OK</string>
      <string name="format_error">Не удалось очистить USB-накопитель</string>
      <string name="gadget_host_error_inflating">Не удалось добавить виджет</string>
      <string name="gigabyteShort">ГБ</string>
@@ -348,7 +347,7 @@
      <string name="httpErrorFileNotFound">Не удалось найти файл</string>
      <string name="httpErrorIO">Не удалось подключиться к серверу. Повторите попытку позже.</string>
      <string name="httpErrorLookup">Не удалось найти страницу по этому URL</string>
-     <string name="httpErrorOk">ОК</string>
+     <string name="httpErrorOk">OK</string>
      <string name="httpErrorProxyAuth">Не удалось выполнить аутентификацию через прокси-сервер</string>
      <string name="httpErrorRedirectLoop">Страница содержит слишком много перенаправлений сервера</string>
      <string name="httpErrorTimeout">Время ожидания соединения с сервером истекло</string>
@@ -399,7 +398,7 @@
 
 %s
 
-Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться."</string>
+Нажмите ОК, чтобы продолжить, или отмена, чтобы остаться."</string>
      <string name="js_dialog_before_unload_negative_button">Остаться</string>
      <string name="js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="js_dialog_before_unload_title">Подтверждение действия</string>
@@ -598,7 +597,6 @@
      <string name="mobile_provisioning_apn" />
      <string name="mobile_provisioning_url" />
      <string name="mobile_redirected_provisioning_url">http://google.com</string>
-     <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
      <string name="more_item_label">Еще</string>
      <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
      <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
@@ -621,7 +619,7 @@
      <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его</string>
      <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s</string>
      <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
-     <string name="ok">ОК</string>
+     <string name="ok">OK</string>
      <string name="old_app_action">Вернуться к приложению %1$s</string>
      <string name="old_app_description">Не запускать новое приложение</string>
      <string name="older">Еще раньше</string>
@@ -1160,7 +1158,7 @@
      <string name="phoneTypeWorkMobile">Рабочий моб.</string>
      <string name="phoneTypeWorkPager">Раб. пейджер</string>
      <string name="pinpuk_attempts">"
-Attempts Remaining :"</string>
+Осталось попыток:"</string>
      <string name="policydesc_disableCamera">Запретить использование камер на устройстве</string>
      <string name="policydesc_disableKeyguardFeatures">Запретить использование некоторых функций блокировки клавиатуры</string>
      <string name="policydesc_encryptedStorage">Шифровать данные приложений в хранилище</string>
@@ -1191,7 +1189,7 @@ Attempts Remaining :"</string>
      <string name="preposition_for_date">%s</string>
      <string name="preposition_for_time">в %s</string>
      <string name="preposition_for_year">в %s г.</string>
-     <string name="print_service_installed_message">Нажми, чтобы включить</string>
+     <string name="print_service_installed_message">Нажмите, чтобы включить</string>
      <string name="print_service_installed_title">Служба %s установлена</string>
      <string name="progress_erasing">Очистка USB-накопителя…</string>
      <string name="progress_nomediapresent">Отсутствует внешний накопитель…</string>
@@ -1223,13 +1221,13 @@ Attempts Remaining :"</string>
      <string name="replace">Заменить</string>
      <string name="report">Отзыв</string>
      <string name="reset">Сбросить</string>
-     <string name="restr_pin_confirm_pin">Введи новый PIN-код еще раз</string>
-     <string name="restr_pin_create_pin">Создай PIN-код для изменения ограничений</string>
-     <string name="restr_pin_enter_admin_pin">Введи PIN-код администратора</string>
+     <string name="restr_pin_confirm_pin">Введите новый PIN-код еще раз</string>
+     <string name="restr_pin_create_pin">Создайте PIN-код для изменения ограничений</string>
+     <string name="restr_pin_enter_admin_pin">Введите PIN-код администратора</string>
      <string name="restr_pin_enter_new_pin">Новый PIN-код</string>
      <string name="restr_pin_enter_old_pin">Текущий PIN-код</string>
      <string name="restr_pin_enter_pin">Введите PIN-код</string>
-     <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повтори попытку.</string>
+     <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повторите попытку.</string>
      <string name="restr_pin_error_too_short">PIN-код должен содержать не менее 4 символов</string>
      <string name="restr_pin_incorrect">Ошибка</string>
      <string name="restr_pin_try_later">Повтори попытку позже</string>
@@ -1370,7 +1368,6 @@ Attempts Remaining :"</string>
      <string name="throttle_warning_notification_title">Активная передача данных</string>
      <string name="throttled_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
      <string name="throttled_notification_title">Превышен лимит на мобильные данные</string>
-     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
      <string name="time_picker_decrement_hour_button">На час назад</string>
      <string name="time_picker_decrement_minute_button">На минуту назад</string>
      <string name="time_picker_decrement_set_am_button">Установить время до полудня</string>
@@ -1434,7 +1431,7 @@ Attempts Remaining :"</string>
      <string name="webpage_unresponsive">Страница не отвечает.
 
 Закрыть ее?</string>
-     <string name="websearch">Веб-поиск</string>
+     <string name="websearch">Поиск</string>
      <string name="webviewchromium_accessibility_content_view">Вид в браузере</string>
 	 <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
      <string name="webviewchromium_accessibility_time_picker_hour">Час</string>
@@ -1520,5 +1517,6 @@ Attempts Remaining :"</string>
      <string name="write_fail_reason_cannot_write">Ошибка записи</string>
      <string name="year">г.</string>
      <string name="years">г.</string>
-     <string name="yes">ОК</string>
+     <string name="yes">OK</string>
+	 <string name="config_networkLocationProviderPackageName">com.qualcomm.location</string>
 </resources>

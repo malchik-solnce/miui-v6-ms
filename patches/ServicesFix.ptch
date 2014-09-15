@@ -1,2 +1,4 @@
 appfile <services.jar>;
 methodreplace "%smali%/com/android/server/pm/PackageManagerService.smali" "%here%/methods/services_signfix.m" "static" "compareSignatures" "[Landroid/content/pm/Signature;[Landroid/content/pm/Signature;" "I";
+replaceinfile "%smali%/com/android/server/power/DisplayPowerController.smali" ".field private static final ELECTRON_BEAM_OFF_ANIMATION_DURATION_MILLIS:I = 0x0" ".field private static final ELECTRON_BEAM_OFF_ANIMATION_DURATION_MILLIS:I = 0x190";
+replaceinfile "%smali%/com/android/server/power/DisplayPowerController.smali" "const-wide/16 v1, 0x0" "const-wide/16 v1, 0x190";

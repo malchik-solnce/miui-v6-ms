@@ -763,6 +763,7 @@
      <string name="trigger_refresh_char">u</string>
      <string name="trigger_save_char">s</string>
      <string name="trigger_y_char">y</string>
+	 <string name="tryrefreshing">Попытка обновления…</string>
      <string name="turn_auto_sync_on_dialog_body">Изменения, которые Вы вносите во все приложения и аккаунты (не только Gmail), будут синхронизироваться между интернетом, другими вашими устройствами и вашим %1$s. Включить автосинхронизацию?</string>
      <string name="turn_auto_sync_on_dialog_confirm_btn">OK</string>
      <string name="turn_auto_sync_on_dialog_title">Включение автосинхронизации</string>

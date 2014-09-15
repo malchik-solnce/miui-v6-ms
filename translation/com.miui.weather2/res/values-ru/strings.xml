@@ -14,11 +14,9 @@
      <string name="act_weather_find_city_no_result">Не найдено</string>
      <string name="act_weather_find_city_searching">Поиск…</string>
      <string name="activity_find_city_dialog_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="activity_find_city_dialog_message">Let Weather use location service</string>
+     <string name="activity_find_city_dialog_message">Разрешить погоде использовать сервис местоположения</string>
      <string name="activity_find_city_dialog_set">Настроить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="activity_find_city_dialog_title">Location service</string>
+     <string name="activity_find_city_dialog_title">Местоположение</string>
      <string name="activity_main_refresh_time">Обновлено: %1$s</string>
      <string name="activity_main_refresh_timeout">Время вышло</string>
      <string name="activity_main_update_time">Обновлено %1$s</string>
@@ -97,7 +95,7 @@
      <string name="view_indexes_item_tommorrow">Завтра</string>
      <string name="view_indexes_title_feel">Ощущается (°C)</string>
      <string name="view_indexes_title_humidity">Влажность (%)</string>
-     <string name="view_indexes_title_pressure">Давление (мб)</string>
+     <string name="view_indexes_title_pressure">Давление (м.б.)</string>
      <string name="view_indexes_title_uv">УФ индекс</string>
      <string name="view_indexes_title_visibility">Видимость (км)</string>
      <string name="view_indexes_title_wind">Ветер</string>

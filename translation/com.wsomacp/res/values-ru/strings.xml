@@ -40,7 +40,7 @@
      <string name="OUT_SERVER">Исходящий сервер</string>
      <string name="PINCODE">PIN</string>
      <string name="PINCODE_AGAIN">"Неправильный PIN.
-Повторите попытку"</string>
+Повторите попытку."</string>
      <string name="PINCODE_FAIL">Неверный PIN</string>
      <string name="POP3">POP3</string>
      <string name="PORT">Порт</string>

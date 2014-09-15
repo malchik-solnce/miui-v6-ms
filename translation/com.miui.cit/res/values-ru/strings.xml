@@ -61,6 +61,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_button_light_on">Включить подсветку кнопок</string>
      <string name="cit_calibration_fail">Калибровка не удалось</string>
      <string name="cit_calibration_pass">Калибровка</string>
+	 <string name="cit_camera_calibration_summary">"Описание теста:
+
+1. Нажмите кнопку калибровки ниже для открытия камеры
+2. Нажмите кнопку назад, чтобы выйти из камеры
+3. There will be a calibration pass label to indicate the ois has been calibrated"</string>
      <string name="cit_camera_sdcard_error">SD-карта заполнена. Вы не можете делать снимки.</string>
      <string name="cit_charger_plugin_check_summary">Проверка подключения зарядного устройство</string>
      <string name="cit_charger_plugin_check_title">Проверка подключения зарядного устройства</string>
@@ -213,6 +218,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth_on">Включить</string>
      <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+	 <string name="cit_tool_cal_camera">Калибровка камеры</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
      <string name="cit_tool_log_dmesg">DMESG</string>

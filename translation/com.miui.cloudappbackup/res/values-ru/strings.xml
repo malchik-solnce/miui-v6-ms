@@ -9,7 +9,7 @@
 	<string name="sdcard_unmounted">No SD card detected</string>
     <string name="sdcard_no_enough_space">Not enough space</string>
 	<string name="retry">Повторить</string>
-	<string name="cloud_app_backup_title">Бэкап</string>
+	<string name="cloud_app_backup_title">Бэкап в облако</string>
     <string name="cloud_app_just_show_in_current_device">Приложения на устройстве</string>
     <string name="cloud_app_mine">Загруженные приложения</string>
     <string name="cloud_app_backup_summary">Автоматическое резервное копирование данных и приложений, при подключении к Wi-Fi и зарядке</string>
@@ -20,7 +20,7 @@
     <string name="cloud_app_delete_data">Удалить копию</string>
     <string name="cloud_app_backup_date">"Сохранено "</string>
     <string name="cloud_app_total_size">Размер копии: %1$s</string>
-    <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
+    <string name="cloud_app_version_size">Версия: %1$s, Размер: %2$s</string>
     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные на данные из облака</string>
     <string name="cloud_app_remove_prompt">Данные %1$s будут удалены. Продолжить?</string>
     <string name="cloud_app_find_backup_prompt_1">Хотите сохранить локальные данные перед восстановлением?</string>
@@ -33,7 +33,7 @@
     <string name="cloud_app_restore_wifi_prompt">Необходимо подключиться к интернету через Wi-Fi для восстановления приложений и пользовательских данных</string>
     <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к ним.</string>
     <string name="cloud_app_device">Устройство</string>
-    <string name="cloud_app_data_in_other_devices">Не сохранено на этом устройстве</string>
+    <string name="cloud_app_data_in_other_devices">На другом устройстве</string>
     <string name="cloud_app_no_data">Нет данных</string>
     <string name="cloud_app_invalid_op">Идет копирование или восстановление</string>
     <string name="cloud_app_invalid_op_when_removing">Данные удалены</string>
@@ -83,13 +83,13 @@
     <string name="device_xiaomi">Mi Phone</string>
     <string name="device_hongmi">Redmi</string>
     <string name="miui_device_name">Android</string>
-    <string name="backup_immediately">Бэкап</string>
+    <string name="backup_immediately">Резерное копирование</string>
     <string name="app_installed">Установленные</string>
     <string name="app_not_installed">Удаленные</string>
     <string name="stop_backup">Остановить</string>
-    <string name="already_enable_backup">Копирование уже включено для этого устройства</string>
-    <string name="already_disable_backup">Копирование уже выключено для этого устройства</string>
-    <string name="enable_backup">Включить</string>
+    <string name="already_enable_backup">Включено для этого устройства</string>
+    <string name="already_disable_backup">Выключено для этого устройства</string>
+    <string name="enable_backup">Включено</string>
     <string name="disable_backup">Выключить</string>
     <string name="dialog_disable_backup">Отключение бэкапа</string>
     <string name="no_backup">Нет копий</string>
@@ -107,9 +107,9 @@
     <string name="no_app_to_backup">Нет приложения для сохранинея</string>
     <string name="restore_from_cloud">Восстановить из Mi Cloud</string>
     <string name="backup_to_cloud">Бэкап в Mi Cloud</string>
-    <string name="restoreing_file_tile">Restoring %d files</string>
+    <string name="restoreing_file_tile">Восстановление файлов %d</string>
     <string name="listview_empty_no_results">Нет результатов</string>
-    <string name="display_early_backup">Show previous backups</string>
+    <string name="display_early_backup">Предыдущая версия</string>
     <string name="intro_v5tov6">MIUI V6 использует новую структуру данных для лучшей производительности. Нам нужно время, чтобы передать Ваши данные от старой структуры MIUI.</string>
     <string name="v5tov6_complete">Передача завершена</string>
     <string name="dialog_prompt_stop_backup">Остановить резервное копирование?</string>

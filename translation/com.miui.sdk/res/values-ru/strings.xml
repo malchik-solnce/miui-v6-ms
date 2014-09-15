@@ -25,9 +25,9 @@
     <string name="evening">PM</string>
     <string name="night">PM</string>
     <string name="size_byte">Б</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_giga_byte">ГБ</string>
+    <string name="size_kilo_byte"> КБ</string>
+    <string name="size_mega_byte"> МБ</string>
+    <string name="size_giga_byte"> ГБ</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
@@ -433,7 +433,11 @@
     <string name="country_name_ge">GE</string>
     <string name="country_name_kg">KG</string>
     <string name="country_name_uz">UZ</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_numeric_month_day">d MMMM</string>
+	<string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
 	<string name="fmt_date_short_month_day">d MMMM</string>
-	<string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_year_month_day">d M yyyy</string>
 </resources>

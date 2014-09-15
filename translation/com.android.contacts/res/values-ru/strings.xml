@@ -195,6 +195,7 @@
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
      <string name="create_group_item_label">Создать новую группу</string>
+	 <string name="create_qrcode_fail_message">Не удалось создать QR-код</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите: М или Ж</string>
@@ -337,7 +338,7 @@
      <string name="emptyGroup">Нет людей в этой группе</string>
      <string name="empty_divider_title">Вы можете</string>
      <string name="enter_contact_name">Имя контакта</string>
-     <string name="eventLabelsGroup">Мероприятия</string>
+     <string name="eventLabelsGroup">День рождения</string>
      <string name="eventTypeCustom">Пользовательское</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
@@ -746,6 +747,8 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
+	 <string name="qr_card_card">Мой QR-код</string>
+     <string name="qrcode_card_title">Карта QR-кода</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из режима объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
@@ -939,6 +942,8 @@
      <string name="scan">сканировать устройство</string>
      <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
      <string name="scan_merge">Поиск возможных дубликатов контактов…</string>
+	 <string name="scan_qrcode_card_hint1">Сканировать QR-код</string>
+     <string name="scan_qrcode_card_hint2">Добавить мою информацию в контакты</string>
      <string name="scanning">Поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>

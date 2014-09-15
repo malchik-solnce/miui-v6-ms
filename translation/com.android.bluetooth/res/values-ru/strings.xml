@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повтори попытку позднее.</string>
+     <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
      <string name="ack_record">Запись подтверждения</string>
      <string name="airplane_error_msg">Невозможно использовать функцию Bluetooth в режиме полета</string>
      <string name="airplane_error_title">Режим полета</string>
@@ -9,6 +9,10 @@
      <string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
      <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
      <string name="auth_notif_title">Ключ сеанса</string>
+	 <string name="ble_device_connected">Устройство подключено</string>
+     <string name="bluetooth_no_devices_found">Устройсва по близости не найдены</string>
+     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
+     <string name="bluetooth_preference_scan_title">Поиск устройств</string>
      <string name="bt_enable_cancel">Отмена</string>
      <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включи адаптер Bluetooth</string>
      <string name="bt_enable_line2">Включить Bluetooth?</string>
@@ -26,6 +30,7 @@
      <string name="defaultname">Автомобильный комплект</string>
      <string name="deleteAll_record">Удалить все записи</string>
      <string name="delete_record">Удалить запись</string>
+	 <string name="device_picker">Bluetooth устройства</string>
      <string name="download_cancel">Остановить</string>
      <string name="download_fail_line1">Файл не получен</string>
      <string name="download_fail_line2">Файл: %1$s</string>
@@ -89,12 +94,13 @@
      <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
      <string name="permlab_bluetoothWhitelist">Белый список Bluetooth устройств</string>
      <string name="permlab_handoverStatus">Получать информацию о статусе передачи через BT</string>
+	 <string name="progress_scanning">Поиск…</string>
      <string name="start_server">Запустить TCP-сервер</string>
      <string name="status_canceled">Передача отменена пользователем</string>
      <string name="status_connection_error">Ошибка подключения</string>
      <string name="status_file_error">Ошибка хранилища</string>
      <string name="status_forbidden">Передача запрещена на принимающем устройстве</string>
-     <string name="status_no_sd_card">Отсутствует SD-карта. Вставь SD-карту для сохранения переданных файлов.</string>
+     <string name="status_no_sd_card">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
      <string name="status_not_accept">Телефон не может обработать этот тип содержания</string>
      <string name="status_pending">Передача файла еще не началась</string>
      <string name="status_protocol_error">Невозможно правильно обработать запрос</string>

@@ -71,7 +71,7 @@
     <string name="wifi_connect_not_found">Wi-Fi сети не найдены</string>
     <string name="wifi_connect_current_connetion">Подключено к Wi-Fi</string>
     <string name="back">Назад</string>
-    <string name="allow_check_website_security">Проверять безопасность сайта</string>
+    <string name="allow_check_website_security">Проверять безопасность сайтов</string>
     <string name="accept">OK</string>
     <string name="cancel">Отмена</string>
     <string name="tips_message">Требуется подключение к интернету, чтобы проверить безопасность сайта</string>

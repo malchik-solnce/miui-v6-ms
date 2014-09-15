@@ -1,0 +1,5 @@
+appfile <cloud-common.jar>;
+replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v2, "%1$.2fGB"" "const-string v2, "%1$.2f ГБ"";
+replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v2, "%1$.2fMB"" "const-string v2, "%1$.2f МБ"";
+replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v0, "0.1MB"" "const-string v2, "0.1 МБ"";
+replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v0, "0MB"" "const-string v0, "0 МБ"";

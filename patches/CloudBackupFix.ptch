@@ -1,0 +1,8 @@
+appfile <CloudAppBackup.apk>;
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v3, \"K\"" "const-string v3, \" КБ\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v4, \"M\"" "const-string v4, \" МБ\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v2, \"B\"" "const-string v2, \" Б\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v13, \"M\"" "const-string v13, \" МБ\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v13, \"K\"" "const-string v13, \" КБ\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v13, \"B\"" "const-string v13, \" Б\"";
+replaceinfile "%smali%/com/miui/cloudappbackup/CloudAppBackupUtils.smali" "const-string v1, \"yyyy-MM-dd HH:mm\"" "const-string v1, \"d-M-yyyy HH:mm\"";

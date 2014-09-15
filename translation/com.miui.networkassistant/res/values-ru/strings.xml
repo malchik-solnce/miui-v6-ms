@@ -108,7 +108,7 @@ For more info check the message you received from your service provider"</string
      <string name="list_empty_text">Пусто</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
-     <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
+     <string name="main_alert_message_no_mobile_package">Лимит трафика не установлен</string>
      <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
 подключение к мобильному интернету"</string>
      <string name="main_button_idel_traffic">Предел</string>
@@ -141,10 +141,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="main_secondary_message_traffic_used_leisure">%s использовано</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
      <string name="main_secondary_message_traffic_used_normal">%s использовано</string>
-     <string name="main_toolbar_firewall">Контроль</string>
+     <string name="main_toolbar_firewall">Контроль приложений</string>
      <string name="main_toolbar_purchase">Пополнение</string>
-     <string name="main_toolbar_saving">Экономия</string>
-     <string name="main_toolbar_statistic">Статистика</string>
+     <string name="main_toolbar_saving">Экономия трафика</string>
+     <string name="main_toolbar_statistic">Статистика использования</string>
      <string name="main_traffic_overlimit_text">превышено</string>
      <string name="main_traffic_remian_text">осталось</string>
      <string name="main_traffic_used">%s использовано</string>
@@ -167,6 +167,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
      <string name="permit_running_network">Разрешить фоновые данные</string>
      <string name="person_hotpot">Мобильные точки доступа</string>
+	 <string name="pkg_total_traffic">Месячный лимит: %s</string>
      <string name="pkg_traffic">Настроить лимит трафика</string>
      <string name="power_save_on_time_default_time">00:00</string>
      <string name="power_save_on_time_end_time_summary">До</string>
@@ -182,7 +183,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="pref_automatic_adjust">Автосинхр. статистики исполь. данных</string>
      <string name="pref_avaible_traffic">Настройки трафика</string>
      <string name="pref_category_title_other">Дополнительные настройки</string>
-     <string name="pref_check_network_diagnostics">Проверь, если мобильный интернет работает нормально</string>
+     <string name="pref_check_network_diagnostics">Проверьте, если мобильный интернет работает нормально</string>
      <string name="pref_connect_settings_enable_background">Фоновые данные</string>
      <string name="pref_connect_settings_enable_background_hint">Разрешить подключение к сети приложениям, которые работают в фоновом режиме</string>
      <string name="pref_connect_settings_exceed_limit">Отключить данные</string>
@@ -233,8 +234,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="read_number">86 статей</string>
      <string name="read_unit">" статей"</string>
+	 <string name="remained_traffic">Осталось: %s</string>
      <string name="right_precent">100%</string>
-     <string name="setting_traffic_pkg">Установить пакет данных</string>
+     <string name="setting_traffic_pkg">Установить пакет трафика</string>
      <string name="settings">Настройки</string>
      <string name="songs_number">18 песен</string>
      <string name="songs_unit">" песен"</string>
@@ -245,6 +247,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
+	 <string name="today_used_traffic">Сегодня: %s</string>
+     <string name="total_over_flow">Превышено: %s</string>
      <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>
      <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
@@ -263,7 +267,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_correction_success">Использование данных обновлено</string>
      <string name="traffic_none">Нет</string>
      <string name="traffic_protection_data_usage_summary">Использование мобильного интернета после превышения пакета трафика может вызвать высокие денежные расходы</string>
-     <string name="traffic_protection_label">Предупреждение о превышении</string>
+     <string name="traffic_protection_label">Предупреждение трафика</string>
      <string name="traffic_protection_next">Далее</string>
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
      <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
@@ -299,7 +303,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_saving_whitelist_btn_added">Добавлено</string>
      <string name="traffic_saving_whitelist_btn_remove">Удалить</string>
      <string name="traffic_saving_whitelist_btn_removed">Удалено из списка</string>
-     <string name="traffic_saving_whitelist_count">Приложения без ограничения трафика: %d</string>
+     <string name="traffic_saving_whitelist_count">Приложения без ограничения трафика: &lt;font color='#4DAA0F'>%1$d&lt;/font></string>
      <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
