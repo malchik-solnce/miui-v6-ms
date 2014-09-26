@@ -3,3 +3,4 @@ replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v2, "%1$.2
 replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v2, "%1$.2fMB"" "const-string v2, "%1$.2f МБ"";
 replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v0, "0.1MB"" "const-string v2, "0.1 МБ"";
 replaceinfile "%smali%/miui/cloud/util/SysHelper.smali" "const-string v0, "0MB"" "const-string v0, "0 МБ"";
+replaceinfile "%smali%/miui/cloud/SyncState.smali" "const-string v0, "isSyncing: %b, isSyncPending: %b, isLasySyncFailed: %b"" "const-string v0, "isSyncing %b, isSyncPending %b, isLasySyncFailed %b"";

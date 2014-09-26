@@ -261,6 +261,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлено международное SMS. Стоимость сообщения зависит от оператора.</string>
      <string name="mx_msg">Облачные сообщения</string>
      <string name="mx_offline">Не в сети</string>
+	 <string name="mx_on_sim_1">Облачные сообщения на SIM %s</string>
+     <string name="mx_on_sim_2">Облачные сообщения на SIM %s</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
      <string name="mx_recommend_msg">Включи облачные сообщения. Нажми кнопку включить и бесплатно отправляй сообщения.</string>

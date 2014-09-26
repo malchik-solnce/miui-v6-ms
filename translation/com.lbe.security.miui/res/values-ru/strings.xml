@@ -94,7 +94,7 @@
     <string name="HIPS_Perm_Calendar_Desc">Доступ к календарю</string>
     <string name="HIPS_Perm_Calendar_Hint">Приложения, имеющие доступ к календарю: %1$s</string>
     <string name="HIPS_Perm_SystemAlert">Всплывающие окна</string>
-    <string name="HIPS_Perm_SystemAlert_Desc">Показ всплывающих окон</string>
+    <string name="HIPS_Perm_SystemAlert_Desc">Доступ к показу всплывающих окон</string>
     <string name="HIPS_Perm_SystemAlert_Hint">Приложения, имеющие доступ к всплывающим окнам: %1$s</string>
     <string name="HIPS_Perm_Wakelock">Пробуждение устройства</string>
     <string name="HIPS_Perm_Wakelock_Desc">Доступ к пробуждению устройства</string>

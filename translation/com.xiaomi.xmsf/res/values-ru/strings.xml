@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Сервисы Xiaomi</string>
+	<string name="activate">Активировать</string>
     <string name="xmsf_activate_info">Информация активаци XMSF</string>
 	<string name="activate_phone_failed_notif_title">Ошибка активации SIM-карты</string>
     <string name="activate_phone_failed_notif_title_msim">Ошибка активации SIM-карты %s</string>
@@ -37,14 +38,14 @@
     <string name="activate_status_desc_getting_sim_info">Получение информации SIM-карты</string>
     <string name="activate_status_desc_getting_sim_info_fail">"Couldn't get SIM card info"</string>
     <string name="sim_unactivated_title">SIM-карта не активирована</string>
-    <string name="activate_popup_title_manual">Активация SIM-карты</string>
+    <string name="activate_popup_title_manual">Активация %s</string>
     <string name="activate_popup_desc_sim_card">Будет отправлено одно сообщение, чтобы связать SIM-карту с аккаунтом Xiaomi и включения %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_intl_sim_card">Одно международное сообщение будет отправлено, чтобы связать SIM-карту с аккаунтом и включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_mixed_sim_cards">Будет отправлено два международных сообщения, чтобы включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_2_sim_cards">Будет отправлено два сообщения, чтобы включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_2_intl_sim_cards">Будет отправлено два международных сообщения, чтобы включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_sim_card_downlink">Чтобы включить %s, введите номер телефона</string>
-    <string name="activate_popup_title_new_sim_card">Активация новой SIM-карты</string>
+    <string name="activate_popup_title_new_sim_card">Повторная активация %s</string>
     <string name="activate_popup_desc_new_sim_card">SIM-карта заменена. Будет отправлено одно сообщение, чтобы включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_new_intl_sim_card">SIM-карта заменена. Два международных сообщения будут отправлены, чтобы включить %s. Оплата согласно тарифному плану.</string>
     <string name="activate_popup_desc_new_mixed_sim_cards">SIM-карты заменены. Два международных сообщения будут отправлены, чтобы включить %s. Оплата согласнотарифному плану.</string>

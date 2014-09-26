@@ -187,7 +187,7 @@ Custom service will contact you in a moment</string>
      <string name="mark_number_dialog_maintitle">Отметить неизв. номер и загрузить</string>
      <string name="mark_title_null_hint">Ввод не может быть пустым</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
-     <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
+     <string name="menu_call_ip_number">IP вызов</string>
      <string name="menu_copy_text">Копировать в буфер обмена</string>
      <string name="menu_delete_call_log">Удалить журналы вызовов</string>
      <string name="menu_delete_one">Удалить это из журнала вызовов</string>
@@ -302,4 +302,6 @@ Custom service will contact you in a moment</string>
 	 <string name="voicemail">Голосовая почта</string>
      <string name="yellow_page_detail_title">О программе</string>
      <string name="yellow_page_website">Официальный сайт</string>
+	 <string name="nearby_average_price">В среднем %d RMB</string>
+	 <string name="sina_share_fail_content_repeat">Не удалось отправить. Контент уже существует.</string>
 </resources>

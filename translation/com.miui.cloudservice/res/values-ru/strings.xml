@@ -34,6 +34,7 @@
     <string name="vcode">Проверочный код</string>
     <string name="bad_authentication">Неверный пароль или имя пользователя</string>
     <string name="header_data_and_synchronization">Данные синхронизации</string>
+	<string name="header_other_settings">Другие настройки</string>
     <string name="title_reg">Создание аккаунта</string>
     <string name="unactivated_user">Отключен</string>
     <string name="error_network">Ошибка подключения к сети</string>
@@ -121,7 +122,7 @@
     <string name="sub_alert_notif_dspt_no">Синхронизация не требуется</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_full_influence"><jsonstring>{"string":"Закончилось место в облаке?","styles":[{"start":0,"name":"u","end":26}]}</string>
-    <string name="micloud_storage_usage" formatted="false">занято %s|всего %s</string>
+    <string name="micloud_storage_usage" formatted="false">занято %s | всего %s</string>
 	<string name="micloud_title_dspt" formatted="false">"Всего: %s 
 Занято: %s | Свободно: %s"</string>
     <string name="micloud_title_dspt_remain">Осталось %s</string>

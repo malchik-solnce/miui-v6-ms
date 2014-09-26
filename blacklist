@@ -14,6 +14,7 @@ system/app/LiveWallpapers.apk
 system/app/MagicSmokeWallpapers.apk
 system/app/matcli.apk
 system/app/Mipay.apk
+system/app/MiLinkService.apk
 system/app/NoiseField.apk
 system/app/NVItem.apk
 system/app/O2O.apk
@@ -36,6 +37,14 @@ system/lib/libjni_hmm_shared_engine.so
 system/lib/libpinyin_data_bundle.so
 system/lib/libttspico.so
 system/lib/libvideochat_jni.so
+system/lib/libairtunes.so
+system/lib/libairtunes_jni.so
+system/lib/libavcodec.so
+system/lib/libavformat.so
+system/lib/libavresample.so
+system/lib/libavutil.so
+system/lib/libhttpserver.so
+system/lib/libdigit_ocr.so
 system/media/audio/alarms/Alarm_Beep_01.ogg
 system/media/audio/alarms/Alarm_Beep_02.ogg
 system/media/audio/alarms/Alarm_Beep_03.ogg
@@ -275,3 +284,12 @@ system/media/audio/ringtones/Vespa.ogg
 system/media/audio/ringtones/World.ogg
 system/media/audio/ringtones/YawningCat.ogg
 system/media/audio/ringtones/Zeta.ogg
+system/media/theme/.data/preview/default/en_US_alarmscreen_0.jpg
+system/media/theme/.data/preview/default/en_US_contact_0.jpg
+system/media/theme/.data/preview/default/en_US_launcher_0.jpg
+system/media/theme/.data/preview/default/en_US_launcher_1.jpg
+system/media/theme/.data/preview/default/en_US_lockscreen_0.jpg
+system/media/theme/.data/preview/default/en_US_mms_0.jpg
+system/media/theme/.data/preview/default/en_US_mms_1.jpg
+system/media/theme/.data/preview/default/en_US_statusbar_0.jpg
+system/media/theme/.data/preview/default/en_US_statusbar_1.jpg

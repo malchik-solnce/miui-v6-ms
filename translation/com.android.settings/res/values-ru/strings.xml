@@ -949,6 +949,7 @@
      <string name="force_stop_dlg_title">Остановить принудительно?</string>
      <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения нужно будет ввести пароль.</string>
      <string name="found_new_version">Доступно обновление</string>
+	 <string name="free_wifi_agreement_remind_never">Больше не показывать</string>
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Подключиться</string>
      <string name="free_wifi_connect_dialog_summary">Эта бесплатная Wi-Fi сеть %1$s предоставлена %2$s</string>
@@ -965,6 +966,9 @@
      <string name="free_wifi_manage_summary">Нажмите, чтобы посмотртеь %1$s</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
+	 <string name="free_wifi_user_agreement">При использовании WiWide для подключения к сети, Ваш телефонный номер будет использоваться для подтверждения личности.</string>
+     <string name="free_wifi_user_agreement_allow">OK</string>
+     <string name="free_wifi_user_agreement_title">Правила пользования</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
      <string name="frequently_fragment_delete">Удалить</string>
      <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
@@ -2006,6 +2010,7 @@
      <string name="sim_pin_enabled">PIN1 включен!</string>
      <string name="sim_pin_toggle">Блокировка SIM-карты</string>
      <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
+	 <string name="sim_radio_off">Не активировано</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
      <string name="skip_label">Далее</string>

@@ -109,6 +109,7 @@
     <string name="input_captcha_hint">Введите код</string>
     <string name="input_vcode_hint">Введите проверочный код</string>
     <string name="confirm">OK</string>
+	<string name="confirm_unbind">Отвязать аккаунт?</string>
     <string name="alert_title_remove_account">Удаление аккаунта</string>
     <string name="remove_account_notice">Что сделать с ранее синхронизированными сообщениями, контактами, журналом вызовов и заметками на устройстве?</string>
     <string name="data_keep_in_phone">Оставить</string>
@@ -157,11 +158,16 @@
     <string name="mipay_center">Карты оплаты</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
+	<string name="bind_sns_description">Дополните свой профиль с помощью личной информации через %s</string>
     <string name="bind_weibo_description">Найдите и синхронизируйте друзей с Sina WeiBo</string>
-    <string name="add_weibo_account">Добавить аккаунт</string>
+    <string name="add_account">Добавить аккаунт</string>
     <string name="binded">Связан</string>
+	<string name="binded_description" formatted="false">"%s успешно связаны. 
+  Дополните свой профиль с помощью личной информации через %s."</string>
     <string name="nobind">Не связан</string>
     <string name="unbind">Отвязан</string>
+	<string name="unbind_sns_description">После отвязки, Вы не сможете заходить в свой Mi аккаунт используя %s</string>
+    <string name="unbind_weibo_description">После отвязки, Вы не сможете синхр. контакты и заходитьв свой Mi аккаунт используя Sina Weibo</string>
 	<string name="button_unbind"><jsonstring>{"string":"Отвязать","styles":[{"start":0,"name":"u","end":7}]}</string>
     <string name="update_contacts">Обновление адресной книги</string>
     <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
@@ -200,6 +206,7 @@
     <string name="internet_comm">Сервис сообщений</string>
 	<string name="license_host_unreachable">Нет подключнения к сети. Чтобы посмотреть информацию сейчас, перейдите в %s.</string>
     <string name="loading">Загрузка…</string>
+	<string name="loading_mili_center">Загрузка баланса…</string>
     <string name="cloud_messaging">Облачные сообщения</string>
     <string name="payment_settings">Настройки оплаты</string>
     <string name="bind_settings">Настройки привязки</string>
@@ -231,6 +238,8 @@
     <string name="account_settings">Настройки аккаунта</string>
     <string name="opening_page">Загрузка…</string>
     <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код еще раз после входа</string>
+	<string name="bind_facebook">Добавить аккаунт Facebook</string>
+    <string name="bind_qq">Добавить QQ аккаунт</string>
     <string name="scan_barcode_title">Входите безопасно в аккаунт Xiaomi, путем сканирования QR-кода с веб-страницы или телевизора</string>
     <string name="micloud_sync_info">%d элемен. для синхронизации</string>
     <string name="micloud_sync_info_synced">Синхронизация не требуется</string>

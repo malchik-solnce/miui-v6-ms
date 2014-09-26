@@ -123,6 +123,8 @@
      <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>
      <string name="turn_off_xunlei_tips">Сервис ускорения Xunlei отключен</string>
      <string name="turn_off_xunlei_title">Отключение движка Xunlei</string>
+	 <string name="unbind_xunlei_2_success">Аккаунт Xunlei изменен</string>
+     <string name="unbind_xunlei_success">Аккаунт Xunlei отвязан</string>
      <string name="valid_in_this_month">в этом месяце</string>
      <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>

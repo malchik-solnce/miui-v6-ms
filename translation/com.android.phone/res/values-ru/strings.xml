@@ -723,8 +723,8 @@ This can take up to 5 minutes."</string>
     <string name="pocket_mode_summary">Автоматическая блокировка устройства при помещении в карман</string>
     <string name="pocket_mode_title">Защита датчиком</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
-    <string name="enable_antispam_strange_title">Неизветный звонок</string>
-    <string name="enable_antispam_strange_summary">Убирать звук при первом звонке с неизвестного номера</string>
+    <string name="enable_antispam_strange_title">Неизвестный звонок</string>
+    <string name="enable_antispam_strange_summary">Отключать звук при первом звонке с неизвестного номера</string>
     <string name="reject_via_sms">Отклон сообщением</string>
     <string name="reject_via_sms_summary">Выберите сообщение для отправки</string>
     <string name="reject_via_sms_title">Отклонить сообщением</string>
@@ -763,6 +763,7 @@ This can take up to 5 minutes."</string>
     <string name="cfu_title">Всегда переадресовать</string>
     <string name="cfb_title">Если занято</string>
     <string name="cfnrc_title">Если вне зоны доступа</string>
+	<string name="cfnrc_title_cta">Когда недоступен</string>
     <string name="cfnry_title">Если нет ответа</string>
     <string name="disable_all_cf">Отключить все переадресации</string>
     <string name="call_settings_category">НАСТРОЙКИ ВЫЗОВА</string>
@@ -861,6 +862,7 @@ This can take up to 5 minutes."</string>
     <string name="msim_mode_progress_activating_message">Включение</string>
     <string name="msim_mode_progress_deactivating_message">Отключение</string>
     <string name="msim_pref_title_voice">Настройки телефона</string>
+	<string name="msim_set_icc_card_error">Ошибка ICC карты</string>
     <string name="msim_pref_title_data">Настройки интернета</string>
     <string name="msim_not_set_summary">Не выбрано</string>
 </resources>

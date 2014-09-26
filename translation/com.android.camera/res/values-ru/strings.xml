@@ -12,10 +12,13 @@
      <string name="accessibility_more_ptions_closed">Расширенные настройки выключены</string>
      <string name="accessibility_more_ptions_opened">Расширенные настройки включены</string>
      <string name="accessibility_open_more_ptions">Включить расширенные настройки</string>
+	 <string name="accessibility_panorama_review_cancel">Панорама отменить сохранение</string>
      <string name="accessibility_review_thumbnail">Недавние фото</string>
      <string name="accessibility_shutter_button">Кнопка затвора</string>
      <string name="accessibility_skin_beautify_closed">Улучшение тона кожи выключено</string>
      <string name="accessibility_skin_beautify_opened">Улучшение тона кожи включено</string>
+	 <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+     <string name="accessibility_video_pause_button">VideoPauseButton</string>
      <string name="accessibility_zoom_control">Приближение</string>
      <string name="albums">Альбомы</string>
      <string name="aperture">Диафрагма</string>
@@ -245,7 +248,6 @@
      <string name="pref_camera_focusmode_entry_manual">Ручной</string>
      <string name="pref_camera_focusmode_entry_normal">Обычный</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
-	 <string name="pref_camera_front_fb_title">Улучшение тона кожи</string>
      <string name="pref_camera_hand_night_title">Ночной режим</string>
      <string name="pref_camera_hdr_title">HDR</string>
      <string name="pref_camera_hdr_type_entry_live">Живой</string>
@@ -419,7 +421,6 @@
      <string name="resume_playing_restart">Начать сначала</string>
      <string name="resume_playing_resume">Продолжить</string>
      <string name="resume_playing_title">Продолжить воспроизведение</string>
-     <string name="review_cancel">Отмена</string>
      <string name="rotate_left">Повернуть влево</string>
      <string name="rotate_right">Повернуть вправо</string>
      <string name="save">OK</string>

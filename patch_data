@@ -1,11 +1,14 @@
 include "%translation_dir%/patches/BackupFix.ptch";
+include "%translation_dir%/patches/Browser.ptch";
 include "%translation_dir%/patches/CloudBackupFix.ptch";
 include "%translation_dir%/patches/CloudFix.ptch";
+include "%translation_dir%/patches/CloudServiceFix.ptch";
 include "%translation_dir%/patches/CoreFix.ptch";
 include "%translation_dir%/patches/DisVolume.ptch";
 include "%translation_dir%/patches/DownloadUiFix.ptch";
+include "%translation_dir%/patches/FileExplorerFix.ptch";
+include "%translation_dir%/patches/MiuiFrameworkFix.ptch";
 include "%translation_dir%/patches/MmsFix.ptch";
-include "%translation_dir%/patches/MusicFix.ptch";
 include "%translation_dir%/patches/NetworkAssistantFix.ptch";
 include "%translation_dir%/patches/RootFix.ptch";
 include "%translation_dir%/patches/SearchFix.ptch";

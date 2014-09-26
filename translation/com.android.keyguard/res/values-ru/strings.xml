@@ -24,9 +24,10 @@
      <string name="incorrect_pukcode">Неверный PUK-код</string>
      <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код, осталось попыток: %d</string>
      <string name="input_password_hint_text">Введите пароль</string>
-     <string name="input_pin_code">Введите PIN-код</string>
+     <string name="input_pin_code">PIN-код</string>
      <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
-     <string name="input_puk_code">Введите PUK-код</string>
+     <string name="input_puk_code">PUK-код</string>
+	 <string name="keyguard_torch_cover_text">Чтобы держать фонарик включенным, нажмите кнопку питания</string>
      <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки</string>
      <string name="lock_screen_date">EEEE \nd MMMM yyyy</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
@@ -51,9 +52,9 @@
      <string name="lockscreen_pattern_instructions">Нарисуйте комбинацию для разблокировки</string>
      <string name="lockscreen_pattern_wrong">Попробуйте снова:</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d секунд</string>
-     <string name="lockscreen_transport_next_description">Следущее</string>
+     <string name="lockscreen_transport_next_description">Следущий</string>
      <string name="lockscreen_transport_play_description">Кнопка проигрывания</string>
-     <string name="lockscreen_transport_prev_description">Предыдущее</string>
+     <string name="lockscreen_transport_prev_description">Предыдущий</string>
      <string name="login_website_in_case_forget_password">Для сброса пароля, зайдите на i.mi.com</string>
 	 <string name="missed_call_text">Пропущенные вызовы: %d</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано браслетом</string>

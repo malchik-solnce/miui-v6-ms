@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="congratulation_label">Наслаждайтесь новым телефоном :)</string>
+     <string name="agree">OK</string>
+	 <string name="congratulation_label">Наслаждайтесь новым телефоном :)</string>
      <string name="congratulation_next">Начать работу</string>
+	 <string name="disagree">Отмена</string>
+     <string name="ime_privacy_policy">Конфиденциальность выбранной клавиатуры</string>
+     <string name="ime_privacy_policy_no_network">Не удается подключиться к интернету. Посмотрите политику конфиденциальности для этой клавиатуры в %s.</string>
      <string name="input_method_category">Выберите метод ввода по умолчанию, который будет использоваться при написании электронных писем, заметок, и т.д.. Сторонние клавиатуры можно установить позже.</string>
      <string name="input_method_setting">Настроить метод ввода</string>
      <string name="logo_congratulation">Настройка завершена!</string>
-	 <string name="multisim_settings_category">Настройки SIM-карты</string>
+	 <string name="multisim_settings_category">Настройки SIM-карт</string>
      <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
      <string name="next">Далее</string>
      <string name="other_settings">Дополнительные настройки</string>
@@ -17,13 +21,19 @@
 	 <string name="other_settings_user_experience_summary1">Политика конфиденциальности</string>
 	 <string name="pref_title_data_slot">SIM-карта для интернета</string>
      <string name="pref_title_voice_slot">SIM-карта для звонков</string>
+	 <string name="privacy_policy">Политика конфиденциальности</string>
+     <string name="provision_inputmethod_policy_description">Посмотреть выбранную клавиатуру </string>
+     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
      <string name="shut_down">Выключить</string>
      <string name="sim_card_detecting">Проверка SIM-карты…</string>
      <string name="sim_card_detection">SIM-карта не найдена</string>
      <string name="sim_card_detection_info">"Вы не сможете настроить Mi аккаунт без SIM-карты, для синхронизации контактов, поиска телефона и т.д."</string>
      <string name="sim_dectection_next">Продолжить</string>
-     <string name="sim_redetection">Проверить еще раз</string>
+     <string name="sim_redetection">Повторить</string>
 	 <string name="summary_not_set">Не выбрано</string>
      <string name="summary_sim_card">Карта %1$d%2$s</string>
+	 <string name="terms_of_use">Условия использования</string>
+     <string name="terms_of_use_label">Вы должны согласиться с пользовательским соглашением и политикой конфиденциальности, прежде чем использовать MIUI</string>
+     <string name="user_agreement">Пользовательское соглашение</string>
      <string name="welcome">Добро пожаловать в</string>
 </resources>

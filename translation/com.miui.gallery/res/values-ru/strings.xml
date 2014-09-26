@@ -246,6 +246,11 @@
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
+	 <string name="impunity_declaration">Галерея может подключиться к сети, чтобы предоставлять услуги, в том числе, не только интернет. Продолжить?</string>
+     <string name="impunity_declaration_ignore">Больше не показывать</string>
+     <string name="impunity_declaration_settings">Предупреждение сети</string>
+     <string name="impunity_declaration_summary">Показывать уведомление о сети каждый раз при запуске галереи</string>
+     <string name="impunity_declaration_title">Предупреждение</string>
      <string name="initial_cloud_button_text">Попробовать</string>
      <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
      <string name="initializing_cloud">Запуск облачного альбома…</string>

@@ -20,7 +20,6 @@
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
-     <string name="category_mirouter">Роутер</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
      <string name="category_picture">Фото</string>
@@ -37,12 +36,13 @@
      <string name="clean_trash_box">Очистить корзину</string>
      <string name="cleaning">Очистка…</string>
      <string name="close">Закрыть</string>
-     <string name="colon">": "</string>
      <string name="compress_fail">Ошибка архивирования. Файл уже существует.</string>
      <string name="compress_message">Архивация в…</string>
      <string name="compress_title">Архивация</string>
      <string name="confirm">OK</string>
+	 <string name="connect_network_setting_des">Напоминать о доступе в сеть</string>
      <string name="copy_failed">Ошибка копирования</string>
+	 <string name="copy_file_to_kuaipan">Скопировать в Kuaipan</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки…</string>
      <string name="create_new_folder_failed">Не удалось создать папку</string>
@@ -71,6 +71,7 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажми на ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
+	 <string name="downloading_in_3g">Скачивание в 3G…</string>
      <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется. Чтобы видеть ее содержимое, отключи режим накопителя.</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -82,6 +83,7 @@
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
      <string name="fileSizeSuffix">%1$s%2$s</string>
+	 <string name="file_already_downlaoded">Файл сохранен в \"%1$s\"</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
      <string name="file_info_ishidden">Скрытый:</string>
@@ -104,10 +106,10 @@
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
-     <string name="gigabyteShort">ГБ</string>
+     <string name="gigabyteShort"> ГБ</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
-     <string name="kilobyteShort">КБ</string>
+     <string name="kilobyteShort"> КБ</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
@@ -116,10 +118,9 @@
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
-     <string name="local_cache_size">Размер кэша: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">Ваш облачный диск KuaiPan</string>
-     <string name="megabyteShort">МБ</string>
+     <string name="megabyteShort"> МБ</string>
      <string name="menu_item_cleanup">Очистка</string>
      <string name="menu_item_search">Поиск</string>
      <string name="menu_item_sort">Сортировка</string>
@@ -164,6 +165,8 @@
      <string name="name_illegal">Имя не может быть пустым</string>
      <string name="net_lose_connected">Сеть недоступна, невозможно получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
+	 <string name="network_connect_confirm_des">Использование kuaipan требует подключения к сети. Продолжить?</string>
+     <string name="never_notify_network_connect">Больше не показывать</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очисти место с помощью очистки или просто удалите большие файлы.</string>
@@ -180,7 +183,9 @@
 2. Загрузить (обновить файл в облаке)"</string>
      <string name="open_changed_file_title">Файл изменен</string>
      <string name="open_file_failed">не удалось открыть</string>
+	 <string name="operate_confirm_in_3g">Использовать мобильный интернет для загрузки этого большого файла??</string>
      <string name="operating">Обработка…</string>
+	 <string name="operation_agree">OK</string>
      <string name="operation_cancel">Отмена</string>
      <string name="operation_compress">Архивация</string>
      <string name="operation_compressing">Архивация…</string>
@@ -212,16 +217,15 @@
      <string name="operation_rename_message">Введите новое имя</string>
      <string name="operation_resume">Начать</string>
      <string name="operation_resume_all">Начать все</string>
+	 <string name="operation_save">Сохранить</string>
      <string name="operation_send">Отправить</string>
      <string name="operation_show_sys">Показать системные</string>
      <string name="operation_unfavorite">Из избранного</string>
      <string name="pan_settting">Настройки KuaiPan</string>
      <string name="paused">Пауза</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="petabyteShort">PB</string>
      <string name="phone">Устройство</string>
-     <string name="pull_to_signin">Потяни вниз, чтобы войти в систему и получить место</string>
-     <string name="query_bind_state">Запрос состояния, подожди…</string>
+     <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить место</string>
      <string name="release_to_signin">Отпусти для входа</string>
      <string name="rename_description">Переименование…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
@@ -241,7 +245,7 @@
      <string name="show_message">Файл не может быть открыт без загрузки. Загрузить?</string>
      <string name="sign_description">Подключение…</string>
      <string name="signin_error">Нет сети или сеть нестабильна. Повторите еще раз.</string>
-     <string name="signin_success">"Ты успешно вошел!
+     <string name="signin_success">"Вы успешно вошли!
 Получено %1$s."</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
      <string name="space_usage">Использование места</string>
@@ -254,17 +258,16 @@
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
-     <string name="sys_size_enable">Включить</string>
+     <string name="sys_size_enable"> свободно</string>
+	 <string name="system_alert">Напоминание</string>
      <string name="tab_category">Категории</string>
      <string name="tab_expand">Онлайн</string>
      <string name="tab_local">Телефон</string>
-     <string name="tab_phone">Файлы</string>
-     <string name="tab_sys_size">Общая память</string>
+	 <string name="tab_path">Память</string>
      <string name="terabyteShort">ТБ</string>
      <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
      <string name="tools">Инструменты</string>
      <string name="trans_task">Передача</string>
-     <string name="trans_task_delete_confirm_message">Удалить выбранные задачи %1$d?</string>
      <string name="transing">Отправка</string>
      <string name="trash_box_capacity">Объем корзины: %1$s</string>
      <string name="trash_box_link">Посети pan.xiaomi.com для очистки корзины</string>
@@ -287,15 +290,15 @@
      <string name="user_guide">Руководство пользователя</string>
      <string name="user_guide_continue_use">OK</string>
      <string name="user_guide_download_other_version">"Вы всегда можете скачать Kuaipan
-на Ваш PC или Mac"</string>
+на Win или Mac"</string>
      <string name="user_guide_kuaipan_copy">"Доступ к файлу с нескольких устройств
 , поместив его в Kuaipan"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
-     <string name="user_guide_other_version">Скачай с mi.kuaipan.cn, войдя в аккаунт (%1$s)</string>
-     <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
+     <string name="user_guide_kuaipan_lable">Kuaipan принадлежит Вам</string>
+     <string name="user_guide_other_version">Скачайте с mi.kuaipan.cn, войдя в аккаунт (%1$s)</string>
+     <string name="user_guide_save_file">Сохраняйте фото и изображения в Kuaipan</string>
+	 <string name="user_guide_summary">Краткое введение</string>
      <string name="user_guide_upload_to_kuaipan">"С телефона,
-просто скопируй и вставь в Kuaipan"</string>
+просто скопируйте и вставьте в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
      <string name="wait_net">Ожидание сети</string>
      <string name="wait_sdcard">Ожидание подключения SD-карты</string>
@@ -304,5 +307,5 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
-     <string name="yes">ОК</string>
+     <string name="yes">OK</string>
 </resources>

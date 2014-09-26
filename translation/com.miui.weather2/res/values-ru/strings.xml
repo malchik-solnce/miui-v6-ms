@@ -69,8 +69,8 @@
      <!-- Original string: AQI %1$s -->
      <string name="aqi_quality_index_unhealthy">unhealthy</string>
      <string name="button_abandon">Отмена</string>
-     <string name="button_allow">Разрешить</string>
-     <string name="button_not_allow">Запретить</string>
+     <string name="button_allow">OK</string>
+     <string name="button_not_allow">Отмена</string>
      <string name="edit_city">Изменить</string>
      <string name="gps_hint">Текущее местоположение</string>
      <string name="loading_weather">Загрузка погоды…</string>
@@ -78,16 +78,15 @@
      <string name="location_management">Управление городами</string>
      <string name="location_tag">Поиск</string>
      <string name="menu_add">Добавить</string>
-     <string name="menu_location">Местоположение</string>
+     <string name="menu_location">Города</string>
      <string name="menu_more">Сведения</string>
      <string name="network_unavailable">Сеть недоступна</string>
      <string name="view_aqi_main_no_data">Нет данных</string>
      <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
      <string name="view_aqi_pubtime">Обновлено: %1$s</string>
-     <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="view_aqi_pubtime_format">d M, HH:mm</string>
      <string name="view_aqi_source">China National Environmental Monitoring Center</string>
-     <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
+     <string name="view_aqi_time_format">d/M/yyyy HH:mm</string>
      <string name="view_aqi_title">Воздух</string>
      <string name="view_dropwater_title">Вероятность осадков</string>
      <string name="view_forecast_item_yesterday">Вчера</string>
@@ -100,6 +99,7 @@
      <string name="view_indexes_title_visibility">Видимость (км)</string>
      <string name="view_indexes_title_wind">Ветер</string>
      <string name="view_indexes_wind_unit">км/ч</string>
+	 <string name="view_sun_titile">Восход и закат солнца</string>
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>

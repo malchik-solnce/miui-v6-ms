@@ -1,0 +1,3 @@
+appfile <MiuiFramework.apk>;
+replaceinfile "%smali%/miui/util/NotificationFilterHelper.smali" "const-string v4, "cn.com.fetion"" "const-string v4, "org.telegram.messenger"";
+replaceinfile "%smali%/miui/util/NotificationFilterHelper.smali" "const-string v4, "com.tencent.mobileqq"" "const-string v4, "com.google.android.youtube"";

@@ -539,8 +539,8 @@
     <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
     <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
     <string name="hints_auto_start_warning_info">Запрет автозапуск отключит входящие сообщения</string>
-    <string name="hints_auto_start_enable_title">Приложений в автозапуске: %d </string>
-    <string name="hints_auto_start_disable_title">Приложений не автозапуске: %d </string>
+    <string name="hints_auto_start_enable_title">Приложения в автозапуске: %d</string>
+    <string name="hints_auto_start_disable_title">Приложения без автозапуска: %d</string>
     <string name="activity_title_apps_manager">Приложения</string>
     <string name="activity_title_permissions_manager">Разрешения</string>
     <string name="dialog_title_auto_start_declare">Информация о автозапуске</string>
@@ -558,8 +558,8 @@
     <string name="permission_action_reject">Запретить</string>
     <string name="empty_title_permission_apps_list">Нет приложений</string>
     <string name="hints_permission_apps_count">%d прил.</string>
-    <string name="hints_get_root_enable_title">Приложения с рут правами: %d</string>
-    <string name="hints_get_root_disable_title">Приложения без рут прав: %d</string>
+    <string name="hints_get_root_enable_title">С правами суперпользователя: %d</string>
+    <string name="hints_get_root_disable_title">Без прав суперпользователя: %d</string>
     <string name="empty_title_root_apps">Пусто</string>
     <string name="hints_remember_choice">Запомнить мой выбор</string>
     <string name="root_apply_title">Важное предупреждение</string>

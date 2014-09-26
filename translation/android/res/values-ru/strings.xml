@@ -1311,10 +1311,10 @@
      <string name="silent_mode_silent">Звонок отключен</string>
      <string name="silent_mode_vibrate">Вибросигнал</string>
      <string name="sim_added_message">Перезагрузи устройство для доступа к мобильной сети</string>
-     <string name="sim_added_title">SIM-карта добавлена</string>
+     <string name="sim_added_title">SIM-карта вставлена</string>
      <string name="sim_done_button">Готово</string>
      <string name="sim_removed_message">Пока Вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
-     <string name="sim_removed_title">SIM-карта удалена</string>
+     <string name="sim_removed_title">SIM-карта извлечена</string>
      <string name="sim_restart_button">Перезапуск</string>
      <string name="sipAddressTypeCustom">Особый</string>
      <string name="sipAddressTypeHome">Домашний</string>
@@ -1499,7 +1499,7 @@
      <string name="wifi_display_notification_connecting_title">Подключение к удаленному дисплею</string>
      <string name="wifi_display_notification_disconnect">Отключен</string>
      <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-     <string name="wifi_p2p_enabled_notification_message">Нажми, чтобы открыть настройки</string>
+     <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
      <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
      <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
      <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct</string>
@@ -1518,5 +1518,4 @@
      <string name="year">г.</string>
      <string name="years">г.</string>
      <string name="yes">OK</string>
-	 <string name="config_networkLocationProviderPackageName">com.qualcomm.location</string>
 </resources>

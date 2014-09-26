@@ -2,6 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
+	 <string name="app_being_backup_message">Бэкап уже существует</string>
      <string name="application_name">Рабочий стол</string>
      <string name="apply_as_lock_wallpaper">OK</string>
      <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
@@ -26,10 +27,7 @@
      <string name="default_folder_title_recommend">Рекомендуемые</string>
      <string name="default_folder_title_security">Безопасность</string>
      <string name="default_folder_title_tools">Инструменты</string>
-     <string name="default_name">По умол.</string>
-	 <string name="disable">Отключить</string>
-     <string name="disable_auto_start_format">Отключить %s автозапуск</string>
-     <string name="disable_auto_start_message">Отключть автозапуск при включении</string>
+     <string name="default_name">По умолчанию</string>
      <string name="edit_folder_title">Имя папки</string>
      <string name="editing_add_widget_tips">Добавление виджетов</string>
      <string name="editing_mode_title_empty">Выберите</string>
@@ -184,15 +182,15 @@
      <string name="status_bar_toggle_vibrate">Вибрация</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
-     <string name="status_downloaded">загружено</string>
-     <string name="status_downloading">загрузка</string>
-     <string name="status_installing">установка</string>
-     <string name="status_paused">приостановлено</string>
-     <string name="status_pending">ожидане</string>
+     <string name="status_downloaded">Загружено</string>
+     <string name="status_downloading">Загрузка</string>
+     <string name="status_installing">Установка</string>
+     <string name="status_paused">Приостановлено</string>
+     <string name="status_pending">Ожидане</string>
      <string name="title_select_live_folder">Выберите папку</string>
      <string name="title_select_shortcut">Выберите ярлык</string>
      <string name="toggle_select_title">Выберите переключатели</string>
-     <string name="toggle_title">Переключатели</string>
+     <string name="toggle_title">Переключ.</string>
      <string name="transformation_type_classic">По умолчанию</string>
      <string name="transformation_type_classic_no_overshoot">Сдвиг</string>
      <string name="transformation_type_crossfade">Угасание</string>
