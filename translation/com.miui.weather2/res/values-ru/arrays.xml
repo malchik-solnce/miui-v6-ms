@@ -3,13 +3,13 @@
 <resources>
      <string-array name="moon_desc">
         <item>Новолуние</item>
-        <item>Растущий полумесяц</item>
-        <item>Первая четверть</item>
+        <item>Рас. полумесяц</item>
+        <item>1я четверть</item>
         <item>Растущая луна</item>
         <item>Полная луна</item>
-        <item>Убывающая луна</item>
-        <item>Последняя четверть</item>
-        <item>Убывающий полумесяц</item>
+        <item>Убыв. луна</item>
+        <item>Посл. четверть</item>
+        <item>Убыв. полумесяц</item>
         <item>Темная луна</item>
      </string-array>
 	 <string-array name="weather_indexes_uv_level">

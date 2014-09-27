@@ -74,7 +74,7 @@
 	 <string name="loading">Запрос…</string>
      <string name="log_share">Поделиться</string>
      <string name="menu_title_check_update">Обновлять только по Wi-Fi</string>
-     <string name="menu_title_current_version_log">Текущий список изменений</string>
+     <string name="menu_title_current_version_log">Список изменений</string>
      <string name="menu_title_download_current_rom">Скачать полную версию</string>
      <string name="menu_title_pick_rom_file">Выбрать прошивку</string>
      <string name="menu_title_recovery">Перезагрузить в рекавери</string>
@@ -149,7 +149,7 @@
 	 <string name="update_comment_hint" />
      <string name="update_comment_title">Комментарий</string>
      <string name="update_feedback">Отзыв о прошивке</string>
-	 <string name="update_feedback_end">Вы пропустили возможность участия в отзывах о прошивке</string>
+	 <string name="update_feedback_end">Отзывы о прошивке завершены</string>
      <string name="update_feedback_end_sum">Попробуйте опрос в следующий вторник</string>
      <string name="update_feedback_expired">"Жаль, что Вы пропустили возможность участия в отзывах о прошивке!
 Попробуйте опрос в следующий вторник."</string>

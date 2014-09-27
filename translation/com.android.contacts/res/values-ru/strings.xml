@@ -99,7 +99,7 @@
      <string name="callrecordview_item_op_time_short_outgoing"> | </string>
      <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
      <string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
-     <string name="callrecordview_menu_delete">Удалить вызов</string>
+     <string name="callrecordview_menu_delete">Удалить</string>
      <string name="callrecordview_menu_delete_accepted">Очистить журнал принятых вызовов</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
@@ -650,8 +650,8 @@
      <string name="online_search_hint">Введите запрос</string>
      <string name="openDialKeyboard">Клавиатура</string>
      <string name="open_contact">Открыть контакт</string>
-     <string name="option_delete_contact">Удалить контакт</string>
-     <string name="option_delete_group">Удалить группу</string>
+     <string name="option_delete_contact">Удалить</string>
+     <string name="option_delete_group">Удалить</string>
      <string name="option_edit_contact">Изменить</string>
      <string name="option_not_in_group">Удалить</string>
      <string name="option_not_star">Убрать из избранных</string>
