@@ -17,5 +17,6 @@ include "%translation_dir%/patches/SettingsFix.ptch";
 include "%translation_dir%/patches/T9Update.ptch";
 include "%translation_dir%/patches/ThemesFix.ptch";
 include "%translation_dir%/patches/UiFix.ptch";
+include "%translation_dir%/patches/UpdaterFix.ptch";
 include "%translation_dir%/patches/VideoFix.ptch";
 include "%translation_dir%/patches/WeatherFix.ptch";

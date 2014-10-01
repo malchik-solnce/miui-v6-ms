@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="shutdown_confirm_title">Выключить устройство?</string>
+    <string name="accept">OK</string>
+	<string name="error_device_id_message">Некоторые аккаунты и облачные функции будут недоступны</string>
+    <string name="error_device_id_title">Не удалось получить номер IMEI</string>
+	<string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
     <string name="reboot_progress">Перезагрузка…</string>

@@ -1518,4 +1518,24 @@
      <string name="year">г.</string>
      <string name="years">г.</string>
      <string name="yes">OK</string>
+	 <string name="edp_brightness_limited">Яркость ограничена</string>
+	<string name="edp_camera_flash_limited">Вспышка камеры ограничена</string>
+	<string name="edp_volume_limited">Громкость ограничена</string>
+	<string name="global_action_sleep">Спящий режим</string>
+	<string name="global_actions_miracast_connection_failed_status">Ошибка подключения</string>
+	<string name="global_actions_miracast_connection_progress_status">Подключение к экрану...</string>
+	<string name="global_actions_miracast_mode_airplane_on_status">Невозможно. Включен режим полета.</string>
+	<string name="global_actions_miracast_mode_cancel_connection_status">Отменить подключение</string>
+	<string name="global_actions_miracast_mode_off_status_many_paired">Подключиться к последнему экрану</string>
+	<string name="global_actions_miracast_mode_off_status_no_paired">Подключиться к экрану</string>
+	<string name="global_actions_miracast_mode_off_status_single_paired">Подключиться к </string>
+	<string name="global_actions_miracast_mode_on_status">Остановить вещание</string>
+	<string name="global_actions_miracast_mode_pc2thor_on_status">Невозможно. ПК вещает на SHIELD.</string>
+	<string name="global_actions_miracast_mode_wifi_off_status">Невозможно. Wi-Fi отключен.</string>
+	<string name="global_actions_miracast_sink_not_found_status">Экран не найден</string>
+	<string name="global_actions_miracast_sink_search_status">Поиск экранов...</string>
+	<string name="global_actions_toggle_miracast_mode">Miracast беспроводной дисплей</string>
+	<string name="p2p_wifi_frequency_conflict_message">WLAN Direct будет отключен. Продолжить?</string>
+	<string name="permdesc_nvidiaCPUPower">Разрешать приложению изменять параметры NVIDA Tegra CPU. Возможно чрезмерное потребление батареи..</string>
+	<string name="permlab_nvidiaCPUPower">Настройка NVIDIA Tegra CPU</string>
 </resources>

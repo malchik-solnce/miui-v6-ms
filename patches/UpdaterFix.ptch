@@ -1,0 +1,3 @@
+appfile <Updater.apk>;
+replaceinfile "%smali%/com/android/updater/ShareActivity.smali" "const-string v0, "com.tencent.WBlog"" "const-string v0, "com.vkontakte.android"";
+replaceinfile "%smali%/com/android/updater/ShareActivity.smali" "const-string v1, "http://www.miui.com/api.php?mod=wm&v=%s&r=%s&u=%s"" "const-string v1, "http://www.miui.ms/api.php?mod=wm&v=%s&r=%s&u=%s"";

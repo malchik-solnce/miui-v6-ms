@@ -239,6 +239,9 @@
     <string name="opening_page">Загрузка…</string>
     <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код еще раз после входа</string>
 	<string name="bind_facebook">Добавить аккаунт Facebook</string>
+	<string name="failed_get_mibi_info">Не удалось получить инфо о балансе</string>
+	<string name="hide_mibi_info">Информация баланса ми скрыта</string>
+	<string name="mibi_balance">%s м.к.</string>
     <string name="bind_qq">Добавить QQ аккаунт</string>
     <string name="scan_barcode_title">Входите безопасно в аккаунт Xiaomi, путем сканирования QR-кода с веб-страницы или телевизора</string>
     <string name="micloud_sync_info">%d элемен. для синхронизации</string>

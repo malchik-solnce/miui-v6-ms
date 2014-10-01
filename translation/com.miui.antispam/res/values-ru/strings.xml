@@ -68,19 +68,20 @@
      <string name="dlg_add_keyword">Добавление ключевых слов</string>
      <string name="dlg_add_manual_hint">Введите номер телефона</string>
      <string name="dlg_add_manual_ok">Добавить</string>
+	 <string name="dlg_antispam_mode_delete_message">Вы не сможете восстановить пользовательские правила для черного списка после удаления</string>
+     <string name="dlg_antispam_mode_delete_title">Удаление режима</string>
+     <string name="dlg_antispam_using_mode_delete_message">Удалить текущий профиль черного списка и переключиться на профиль по умолчанию? Действие необратимо!</string>
+     <string name="dlg_antispam_using_mode_international_delete_message">Удалить текущий профиль черного списка и переключиться на профиль по умолчанию? Действие необратимо!</string>
      <string name="dlg_bl_add_manual">Добавить номер в черный список</string>
      <string name="dlg_black_address_antispam_message">Добавить регион в черный список?</string>
      <string name="dlg_black_antispam_hint">Черный список</string>
      <string name="dlg_black_antispam_message">Добавить сообщение в черный список?</string>
      <string name="dlg_clear_all_call">Удалить все заблокированные вызовы?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_all_ok">OK</string>
      <string name="dlg_clear_all_sms">Удалить все заблокированные сообщения?</string>
      <string name="dlg_clear_blacklist">Очистить черный список?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_blacklist_ok">OK</string>
      <string name="dlg_clear_current_call">Удалить все заблокированные вызовы от этого номера?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_clear_current_ok">OK</string>
      <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения от этого номера?</string>
      <string name="dlg_delete_keyword">Удалить эти ключевые слова?</string>
@@ -95,12 +96,10 @@
      <string name="dlg_remove_address_whitelist">Удалить регион из белого списка?</string>
      <string name="dlg_remove_blacklist">Удалить этот номер из черного списка?</string>
      <string name="dlg_remove_blacklist_ing">Удаление из черного списка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_remove_blacklist_ok">OK</string>
      <string name="dlg_remove_whitelist">Удалить выбранные номера из белого списка?</string>
      <string name="dlg_remove_whitelist_ing">Удаление из белого списка…</string>
      <string name="dlg_retore">Восстановить это сообщение?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_retore_ok">OK</string>
      <string name="dlg_white_address_antispam_message">Добавить регион в белый список?</string>
      <string name="dlg_white_antispam_hint">Белый список</string>
@@ -111,6 +110,7 @@
      <string name="fw_blocked_count_sms">сообщений:%d</string>
 	 <string name="fw_blocked_join">" и "</string>
      <string name="hint_antispam_mode_edit">Пользовательский режим</string>
+	 <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Блокировать вызовы</string>
      <string name="info_antispam_phone_sms">Блокировать вызовы и сообщения</string>
      <string name="info_antispam_sms">Блокировать сообщения</string>

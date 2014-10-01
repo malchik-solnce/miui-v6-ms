@@ -258,7 +258,8 @@
      <string name="pref_camera_histogram_entry_disable">Выкл.</string>
      <string name="pref_camera_histogram_entry_enable">Вкл.</string>
      <string name="pref_camera_histogram_title">Гистограмма</string>
-     <string name="pref_camera_iso_title">Светочувствительность</string>
+     <string name="pref_camera_iso_title">Светочув.</string>
+	 <string name="pref_camera_iso_entry_auto">Авто</string>
      <string name="pref_camera_jpegquality_entry_high">Высокое</string>
      <string name="pref_camera_jpegquality_entry_low">Низкое</string>
      <string name="pref_camera_jpegquality_entry_normal">Обычное</string>
@@ -266,6 +267,7 @@
      <string name="pref_camera_long_pressing_burst_shooting_entry_off">Выкл.</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_on">Вкл.</string>
      <string name="pref_camera_long_pressing_burst_shooting_title">Серийная съемка</string>
+	 <string name="pref_camera_manual_mode_title">Ручной режим</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Очень высокая</string>
@@ -302,10 +304,10 @@
      <string name="pref_camera_picturesize_entry_3328x1872">6 Мп (3328x1872)</string>
      <string name="pref_camera_picturesize_entry_4208x2368">10 Мп (4208x2368)</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13 Мп (4208x3120)</string>
-     <string name="pref_camera_picturesize_entry_fullscreen">Широкоформатный 16:9</string>
-     <string name="pref_camera_picturesize_entry_standard">Стандартный 4:3</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">4:3</string>
      <string name="pref_camera_picturesize_title">Разрешение</string>
-     <string name="pref_camera_picturesize_title_simple_mode">Соотношение сторон</string>
+     <string name="pref_camera_picturesize_title_simple_mode">Масштаб</string>
      <string name="pref_camera_recordlocation_entry_off">Выключено</string>
      <string name="pref_camera_recordlocation_entry_on">Включено</string>
      <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
@@ -378,8 +380,9 @@
      <string name="pref_grp_capture_settings">Настройки видео</string>
      <string name="pref_grp_picture_settings">Настройки фото</string>
      <string name="pref_grp_restore_settings">Сброс настроек</string>
-     <string name="pref_manual_exposure_title">Ручная экспозиция</string>
+     <string name="pref_manual_exposure_title">Экспозиция</string>
      <string name="pref_priority_storage_title">Приоритет сохранения на внешнюю память</string>
+	 <string name="pref_qc_focus_position_title">Фокусировка</string>
      <string name="pref_scan_qrcode_title">Сканер QR-кода</string>
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
@@ -392,8 +395,8 @@
      <string name="pref_video_quality_entry_480p">SD</string>
      <string name="pref_video_quality_entry_720p">HD</string>
      <string name="pref_video_quality_title">Качество видео</string>
-     <string name="pref_video_speed_entry_fast">Быстрая</string>
-     <string name="pref_video_speed_entry_normal">Нормальная</string>
+     <string name="pref_video_speed_entry_fast">Ускоренная</string>
+     <string name="pref_video_speed_entry_normal">Обычная</string>
      <string name="pref_video_speed_entry_slow">Медленная</string>
      <string name="pref_video_speed_fast_title">Ускоренная съемка</string>
      <string name="pref_video_speed_slow_title">Замедленная съемка</string>
@@ -451,6 +454,8 @@
 	 <string name="simple_mode_button_text_fast_video">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
+	 <string name="simple_mode_button_text_manual">Выйти</string>
+     <string name="simple_mode_button_text_manual_mode">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
 	 <string name="simple_mode_button_text_ubifocus">Выйти</string>

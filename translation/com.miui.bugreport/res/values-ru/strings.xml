@@ -17,6 +17,11 @@
      <string name="camera_problem3">Принудительное закрытие камеры</string>
      <string name="camera_problem4">Не удается переключаться между задними и передними камерами</string>
      <string name="camera_problem5">Камера перестает работать</string>
+	 <string name="cta_cancel">Отмена</string>
+     <string name="cta_confirm">OK</string>
+     <string name="cta_dialog_content">Для нормальной работы приложения требуется подключение к сети. Разрешить?</string>
+     <string name="cta_dialog_title">Предупреждение</string>
+     <string name="cta_not_show_again">Больше не показывать</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Нет</string>
 	 <string name="discard_draft_dialog_button_discard">Да</string>
@@ -66,6 +71,7 @@
      <string name="systemui">Панель уведомлений</string>
      <string name="title_hot_problem">Распространенные ошибки</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
+	 <string name="toast_feedback_network_unavailable">Нет подключения к сети</string>
      <string name="toast_feedback_pending_wlan">Отзыв будет отправлен позже при включенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Отзыв успешно отправлен</string>
      <string name="toast_feedbackservice_in_submit">Отправка предыдущего отзыва…</string>

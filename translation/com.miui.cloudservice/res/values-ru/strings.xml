@@ -9,6 +9,7 @@
     <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
     <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+	<string name="privacy_policy">Политика конфиденциальности</string>
 	<string name="remind_later">Напомнить позже</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
@@ -36,12 +37,22 @@
     <string name="header_data_and_synchronization">Данные синхронизации</string>
 	<string name="header_other_settings">Другие настройки</string>
     <string name="title_reg">Создание аккаунта</string>
+	<string name="user_agreement">Пользовательское соглашение</string>
+    <string name="user_agreement_p6">"Использование этой функции подлежит "</string>
+    <string name="user_agreement_p7">"Условия использования Mi Cloud"</string>
+    <string name="user_agreement_p8">.</string>
     <string name="unactivated_user">Отключен</string>
     <string name="error_network">Ошибка подключения к сети</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Не удалось войти</string>
 	<string name="sync">Синхр.</string>
     <string name="sync_dspt">Включить синхронизацию</string>
+	<string name="sync_dspt_provision">"Mi Cloud синхронизирует фотографии, сообщения, заметки и т.д. на всех Ваших устройствах. Также Вы можете зайти в любом браузере на "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision3">".
+
+Эту функцию можно изменить позже в настройках.
+"</string>
 	<string name="sync_item_calllog_summary">Синхронизировать журнал вызовов этого телефона</string>
     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
     <string name="sync_sub_dspt">Будет отправлено одно обычное сообщение</string>
@@ -68,11 +79,14 @@
     <string name="find_device_notice_p1">Зайдите на</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"для поиска, блокировки устройства или восстановления данных.
-При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
-    <string name="i_know">OK</string>
+При смене SIM-карты, будет отправлено сообщение для повторного включения услуги."</string>
+    <string name="find_device_send_sms_alert">При смене SIM-карты, будет отправлено сообщение для повторного включения услуги.</string>
+	<string name="i_know">OK</string>
 	<string name="internet">Интернет</string>
     <string name="internet_disconnected">Нет подключения к сети</string>
     <string name="less_flow_mode">Режим синхронизации</string>
+	<string name="license_host_unreachable">Нет подключения к сети. Для просмотра информации перейдите на %s</string>
+    <string name="loading">Загрузка…</string>
     <string name="find_device_disabled_title">Поиск устройства отключен</string>
     <string name="find_device_disabled_notice">Для включения зайдите в настройки > аккаунты > Mi Cloud</string>
     <string name="button_cancel">Отмена</string>
@@ -132,6 +146,11 @@
     <string name="micloud_user_space_usage">Информация облака</string>
     <string name="micloud_web_discription_01">Войдите в аккаунт на i.mi.com</string>
     <string name="micloud_web_discription_02">для доступа к файлам в любое время из любого места</string>
+	<string name="mx_dspt">Облачные сообщения</string>
+    <string name="mx_dspt_provision">"Облачные сообщения позволяют пользователям MIUI переписываться друг с другом бесплатно через интернет.
+
+Вы можете включить или отключить эту функцию позже в настройках."</string>
+    <string name="mx_sub_dspt_provision">Облачные сообщения</string>
     <string name="micloud_full_influence_title">Облако заполнено…</string>
     <string name="micloud_warn_low_title">Мало свободного места…</string>
     <string name="micloud_warn_low_sum">Облако заполнено на 90%</string>
@@ -153,6 +172,11 @@
 	<string name="cloud_sync_setting_summary_standard">Обычный: синхронизировать фотографии, видео, сообщения, данные приложений и фото контактов по Wi-Fi, а остальные данные при мобильном интернете</string>
     <string name="cloud_sync_setting_summary_wlan">Wi-Fi: синхронизировать все данные только при Wi-Fi подключении</string>
     <string name="find_device_dspt">Немедленная блокировка или очистка устройства</string>
+	<string name="find_device_dspt_provision">"Если Вы потеряете устройство, зайдите на "</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_3">" для поиска, блокировки или сброса данных.
+
+Эту функцию можно изменить позже в настройках."</string>
     <string name="micloud_user_space_title">Место в облаке</string>
     <string name="sync_sub_dspt_provision">Просмотривайте и управляйте данными в любое время</string>
     <string name="btn_return">Назад</string>
